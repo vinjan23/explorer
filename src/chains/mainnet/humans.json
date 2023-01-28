@@ -1,0 +1,16 @@
+{
+    "chain_name": "humans",
+    "coingecko": "",
+    "api": ["https://vinjan-humans-api.jepe.biz.id"],
+    "rpc": ["https://vinjan-humans-rpc.jepe.biz.id"],
+    "sdk_version": "0.46.3",
+    "addr_prefix": "human",
+    "logo": "/logos/h-logo.svg",
+    "assets": [{
+        "base": "uheart",
+        "symbol": "HEART",
+        "exponent": "6",
+        "coingecko_id": "humans-ai",
+        "logo": "https://assets.coingecko.com/coins/images/21273/small/h_logo_1x.png?1638858402"
+    }]
+}
