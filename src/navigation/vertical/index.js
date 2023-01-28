@@ -19,20 +19,20 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://https://vinjanxplorer.jepe.biz.id//logox.svg',
+      icon: 'https://https://vinjanxplorer.jepe.biz.id/logox.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
-      title: 'Mainnet Explorer',
-      href: 'https://ping.pub',
+      title: 'Vinjan Explorer',
+      href: 'https://https://vinjanxplorer.jepe.biz.id',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      title: 'Vinjan Explorer',
+      href: 'https://https://vinjanxplorer.jepe.biz.id',
       icon: 'LifeBuoyIcon',
     })
   }
@@ -48,7 +48,7 @@ function processMenu() {
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/vinjan23',
     icon: 'GithubIcon',
   })
 
