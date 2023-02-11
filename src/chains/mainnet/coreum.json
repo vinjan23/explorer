@@ -1,0 +1,20 @@
+{
+    "chain_name": "coreum",
+    "coingecko": "",
+    "api": ["https://api-cored.vinjan.xyz/"],
+    "rpc": ["https://rpc-cored.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "testcore",
+    "logo": "/logos/coreum.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "utestcore",
+        "symbol": "testcore",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/coreum.png"
+    }]
+}
