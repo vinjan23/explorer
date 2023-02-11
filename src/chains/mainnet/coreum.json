@@ -5,7 +5,7 @@
     "rpc": ["https://rpc-cored.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.11",
-    "coin_type": "118",
+    "coin_type": "990",
     "min_tx_fee": "5000",
     "addr_prefix": "testcore",
     "logo": "/logos/coreum.png",
