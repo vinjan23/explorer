@@ -1,0 +1,18 @@
+{
+    "chain_name": "realio",
+    "api": ["https://api-realio.vinjan.xyz/"],
+    "rpc": ["https://rpc-realio.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "realio",
+    "logo": "/logos/realio.png",
+    "assets": [{
+        "base": "ario",
+        "symbol": "RIO",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/realio.png"
+    }]
+}
