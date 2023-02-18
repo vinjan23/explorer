@@ -1,0 +1,19 @@
+{
+    "chain_name": "andromeda",
+    "api": ["https://api-andromeda.vinjan.xyz/"],
+    "rpc": ["https://rpc-andromeda.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.12",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "andr",
+    "logo": "/logos/andromeda.png",
+    "assets": [
+      {
+        "base": "uandr",
+        "symbol": "ANDR",
+        "exponent": "6",
+        "logo": "/logos/andromeda.png"
+      }
+    ]
+  }
