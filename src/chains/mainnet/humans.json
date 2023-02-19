@@ -1,8 +1,8 @@
 {
     "chain_name": "humans",
     "coingecko": "",
-    "api": ["https://vinjan-humans-api.jepe.biz.id"],
-    "rpc": ["https://vinjan-humans-rpc.jepe.biz.id"],
+    "api": ["https://api-human.vinjan.xyz/"],
+    "rpc": ["https://rpc-human.vinjan.xyz/"],
     "sdk_version": "0.46.3",
     "coin_type": "118",
     "addr_prefix": "humans",
