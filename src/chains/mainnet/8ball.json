@@ -1,7 +1,7 @@
 {
     "chain_name": "8ball",
     "coingecko": "",
-    "api": ["https://api.8ball.nodexcapital.com"],
+    "api": ["https://api-8ball.vinjan.xyz/"],
     "rpc": ["https://rpc-8ball.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
