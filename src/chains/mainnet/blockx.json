@@ -1,6 +1,6 @@
 {
     "chain_name": "BLOCKX",
-    "api": ["https://api-blockxd.vinjan.xyz/"],
+    "api": ["https://api.blockx.nodexcapital.com/"],
     "rpc": ["https://rpc-blockxd.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
