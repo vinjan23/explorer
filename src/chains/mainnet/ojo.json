@@ -1,5 +1,5 @@
 {
-    "chain_name": "ojo-devnet",
+    "chain_name": "ojo",
     "coingecko": "",
     "api": ["https://api-ojo.vinjan.xyz/"],
     "rpc": ["https://rpc-ojo.vinjan.xyz/"],
@@ -11,7 +11,7 @@
     "logo": "/logos/ojo.png",
     "assets": [{
         "base": "uojo",
-        "symbol": "ojo",
+        "symbol": "OJO",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/ojo.png"
