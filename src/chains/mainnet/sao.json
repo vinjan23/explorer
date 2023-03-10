@@ -1,0 +1,19 @@
+{
+    "chain_name": "Sao",
+    "coingecko": "",
+    "api": ["https://api-sao.vinjan.xyz/"],
+    "rpc": ["https://api-sao.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.6",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "sao",
+    "logo": "/logos/sao.png",
+    "assets": [{
+        "base": "uosmo",
+        "symbol": "SAO",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/sao.png"
+    }]
+}
