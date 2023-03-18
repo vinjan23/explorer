@@ -1,18 +1,18 @@
 {
-    "chain_name": "coreum",
+    "chain_name": "coreum-mainnet-1",
     "coingecko": "",
     "api": ["https://api-cored.vinjan.xyz/"],
     "rpc": ["https://rpc-cored.vinjan.xyz/"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.11",
+    "sdk_version": "0.45.14",
     "coin_type": "990",
     "min_tx_fee": "5000",
-    "addr_prefix": "testcore",
+    "addr_prefix": "core",
     "logo": "/logos/coreum.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
-        "base": "utestcore",
-        "symbol": "testcore",
+        "base": "ucore",
+        "symbol": "CORE",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/coreum.png"
