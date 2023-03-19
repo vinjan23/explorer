@@ -1,5 +1,5 @@
 {
-    "chain_name": "blocktopia-01",
+    "chain_name": "bonusblock",
     "api": ["https://api-bonus.vinjan.xyz/"],
     "rpc": ["https://rpc-bonus.vinjan.xyz/"],
     "snapshot_provider": "",
@@ -11,7 +11,7 @@
     "assets": [
       {
         "base": "ubonus",
-        "symbol": "bonusblock",
+        "symbol": "bonus",
         "exponent": "6",
         "logo": "/logos/bonus-block.png"
       }
