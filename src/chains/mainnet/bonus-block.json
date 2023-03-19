@@ -11,7 +11,7 @@
     "assets": [
       {
         "base": "ubonus",
-        "symbol": "bonus",
+        "symbol": "bonusblock",
         "exponent": "6",
         "logo": "/logos/bonus-block.png"
       }
