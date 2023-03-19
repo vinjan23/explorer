@@ -6,13 +6,12 @@
     "coin_type": "60",
     "min_tx_fee": "5000",
     "addr_prefix": "bonus",
-    "logo": "/logos/bonus-block.png",
-    "assets": [
-      {
+    "logo": "/logos/bonus.png",
+    "assets": [{
         "base": "ubonus",
         "symbol": "bonus",
         "exponent": "6",
-        "logo": "/logos/bonus-block.png"
-      }
-    ]
+        "logo": "/logos/bonus.png"
+    }]
   }
+  
