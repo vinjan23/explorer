@@ -1,0 +1,19 @@
+{
+    "chain_name": "sge",
+    "coingecko": "",
+    "api": ["https://api-sge.vinjan.xyz/"],
+    "rpc": ["https://rpc-sge.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "sge",
+    "logo": "/logos/sge.png",
+    "assets": [{
+        "base": "usge",
+        "symbol": "SGE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/sge.png"
+    }]
+}
