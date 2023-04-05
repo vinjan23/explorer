@@ -1,12 +1,13 @@
 {
+
     "chain_name": "althea-testnet",
-    "coingecko": "",
     "api": ["https://api-althea.vinjan.xyz/"],
     "rpc": ["https://rpc-althea.vinjan.xyz/"],
+    "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.45.11",
     "coin_type": "60",
-    "min_tx_fee": "5000",
+    "min_tx_fee": "500",
     "addr_prefix": "althea",
     "logo": "/logos/althea.png",
     "assets": [{
@@ -16,4 +17,5 @@
         "coingecko_id": "",
         "logo": "/logos/althea.png"
     }]
-}
+  }
+  
