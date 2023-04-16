@@ -1,5 +1,5 @@
 {
-    "chain_name": "realio",
+    "chain_name": "realio-mainnet",
     "api": ["https://api-realio.vinjan.xyz/"],
     "rpc": ["https://rpc-realio.vinjan.xyz/"],
     "snapshot_provider": "",
@@ -12,7 +12,7 @@
         "base": "ario",
         "symbol": "RIO",
         "exponent": "18",
-        "coingecko_id": ""realio-network",
+        "coingecko_id": "realio-network",
         "logo": "/logos/realio.png"
     }]
 }
