@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "decentr",
+    "chain_name": "decentr-mainnet",
     "api": ["https://api-decentr.vinjan.xyz/"],
     "rpc": ["https://rpc-decentr.vinjan.xyz/"],
     "coingecko": "decentr",
