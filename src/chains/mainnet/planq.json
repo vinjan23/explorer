@@ -1,5 +1,5 @@
 {
-    "chain_name": "planq",
+    "chain_name": "planq-mainnet",
     "api": ["https://api-planq.vinjan.xyz/"],
     "rpc": ["https://rpc-planq.vinjan.xyz/"],
     "snapshot_provider": "",
