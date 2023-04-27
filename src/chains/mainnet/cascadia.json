@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "cascadia-testnet",
+    "api": ["https://api-cascadia.vinjan.xyz/"],
+    "rpc": ["https://rpc-cascadia.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.10",
+    "coin_type": "60",
+    "min_tx_fee": "500",
+    "addr_prefix": "cascadia",
+    "logo": "/logos/cascadia.png",
+    "assets": [{
+        "base": "aCC",
+        "symbol": "TCC",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/cascadia.png"
+    }]
+  }
+  
