@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "archway-testnet",
+    "api": ["https://api-archway.vinjan.xyz/"],
+    "rpc": ["https://rpc-archway.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.14",
+    "coin_type": "60",
+    "min_tx_fee": "500",
+    "addr_prefix": "archway",
+    "logo": "/logos/archway.png",
+    "assets": [{
+        "base": "uconst",
+        "symbol": "CONST",
+        "exponent": "60",
+        "coingecko_id": "",
+        "logo": "/logos/archway.png"
+    }]
+  }
+  
