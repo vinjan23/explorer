@@ -6,14 +6,14 @@
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.45.14",
-    "coin_type": "60",
+    "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "archway",
     "logo": "/logos/archway.png",
     "assets": [{
         "base": "uconst",
         "symbol": "CONST",
-        "exponent": "60",
+        "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/archway.png"
     }]
