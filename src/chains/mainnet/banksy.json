@@ -1,8 +1,8 @@
 {
 
     "chain_name": "composable-testnet",
-    "api": ["https://https://api-t.composable.nodestake.top/"],
-    "rpc": ["https://rpc-banksy.vinjan.xyz/"],
+    "api": ["https://api-t.composable.nodestake.top/"],
+    "rpc": ["https://rpc-banksy.vinjan.xyz"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
