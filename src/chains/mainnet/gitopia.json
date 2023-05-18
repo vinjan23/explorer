@@ -1,0 +1,19 @@
+{
+    "chain_name": "gitopia-mainnet",
+    "api": ["https://api-gitopia.vinjan.xyz/"],
+    "rpc": ["https://rpc-gitopia.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.12",
+    "coin_type": "118",
+    "min_tx_fee": "1",
+    "addr_prefix": "gitopia",
+    "logo": "/logos/gitopia.png",
+    "assets": [
+      {
+        "base": "ulore",
+        "symbol": "LORE",
+        "exponent": "6",
+        "logo": "/logos/gitopia.png"
+      }
+    ]
+  }
