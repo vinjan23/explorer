@@ -1,7 +1,7 @@
 {
     "chain_name": "gitopia-mainnet",
-    "api": ["https://api-gitopia.vinjan.xyz/"],
-    "rpc": ["https://rpc-gitopia.vinjan.xyz/"],
+    "api": ["https://gitopia-api.polkachu.com/"],
+    "rpc": ["https://gitopia-rpc.polkachu.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.12",
     "coin_type": "118",
