@@ -13,7 +13,7 @@
     "assets": [{
         "base": "ppica",
         "symbol": "BANKSY",
-        "exponent": "6",
+        "exponent": "12",
         "coingecko_id": "",
         "logo": "/logos/composable.png"
     }]
