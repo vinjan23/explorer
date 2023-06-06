@@ -12,7 +12,7 @@
     "logo": "/logos/composable.png",
     "assets": [{
         "base": "ppica",
-        "symbol": "BANKSY",
+        "symbol": "PICA",
         "exponent": "12",
         "coingecko_id": "",
         "logo": "/logos/composable.png"
