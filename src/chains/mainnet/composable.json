@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "composable-mainnet",
+    "api": ["https://composable-api.polkachu.com/"],
+    "rpc": ["https://composable-rpc.polkachu.com/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "banksy",
+    "logo": "/logos/composable.png",
+    "assets": [{
+        "base": "ppica",
+        "symbol": "BANKSY",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/composable.png"
+    }]
+  }
+  
