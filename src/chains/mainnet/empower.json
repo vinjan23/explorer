@@ -1,13 +1,13 @@
 {
 
     "chain_name": "empower",
-    "api": ["https://api-t.empower.nodestake.top"],
-    "rpc": ["https://rpc-t.empower.nodestake.top"],
+    "api": ["https://api-empower.vinjan.xyz/"],
+    "rpc": ["https://rpc-empower.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.47.1",
+    "sdk_version": "0.47.3",
     "coin_type": "118",
-    "min_tx_fee": "500",
+    "min_tx_fee": "100",
     "addr_prefix": "empower",
     "logo": "/logos/empower.png",
     "assets": [{
