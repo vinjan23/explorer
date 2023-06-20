@@ -4,7 +4,7 @@
     "rpc": ["https://rpc-blockx.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
-    "coin_type": "118",
+    "coin_type": "60",
     "min_tx_fee": "100000",
     "addr_prefix": "blockx",
     "logo": "/logos/blockx.png",
