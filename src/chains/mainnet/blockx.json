@@ -1,13 +1,14 @@
 {
     "chain_name": "BLOCKX",
     "api": ["https://api-blockx.vinjan.xyz/"],
-    "rpc": ["https://rpc-blockx.vinjan.xyz/"],
+    "rpc": ["https://testnet8-rpc.blockxnet.com"],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
     "coin_type": "60",
-    "min_tx_fee": "100000",
+    "min_tx_fee": "10000",
     "addr_prefix": "blockx",
     "logo": "/logos/blockx.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [
       {
         "base": "abcx",
