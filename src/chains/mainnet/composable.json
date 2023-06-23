@@ -8,7 +8,7 @@
     "sdk_version": "0.47.1",
     "coin_type": "118",
     "min_tx_fee": "100",
-    "addr_prefix": "banksy",
+    "addr_prefix": "centauri",
     "logo": "/logos/composable.png",
     "assets": [{
         "base": "ppica",
