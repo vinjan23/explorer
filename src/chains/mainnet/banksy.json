@@ -11,8 +11,8 @@
     "addr_prefix": "banksy",
     "logo": "/logos/composable.png",
     "assets": [{
-        "base": "ubanksy",
-        "symbol": "BANKSY",
+        "base": "upica",
+        "symbol": "PICA",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/composable.png"
