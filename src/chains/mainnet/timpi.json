@@ -1,9 +1,9 @@
 {
     "chain_name": "timpi-testnet",
-    "api": ["https://api-t.timpi.nodestake.top"],
-    "rpc": ["https://rpc-t.timpi.nodestake.top"],
+    "api": ["https://timpi.api.t.stavr.tech"],
+    "rpc": ["https://rpc-timpi.nodeist.net"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.14",
+    "sdk_version": "0.45.6",
     "coin_type": "118",
     "min_tx_fee": "100",
     "addr_prefix": "timpitn",
