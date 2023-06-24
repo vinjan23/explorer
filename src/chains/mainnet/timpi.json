@@ -1,0 +1,20 @@
+{
+    "chain_name": "timpi-testnet",
+    "api": ["https://api-t.timpi.nodestake.top"],
+    "rpc": ["https://rpc-t.timpi.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.14",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "timpitn",
+    "logo": "/logos/timpi.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [
+      {
+        "base": "utimpiTN",
+        "symbol": "TIMPITN",
+        "exponent": "6",
+        "logo": "/logos/timpi.png"
+      }
+    ]
+  }
