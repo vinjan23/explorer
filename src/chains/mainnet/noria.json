@@ -1,0 +1,20 @@
+{
+    "chain_name": "noria-testnet",
+    "api": ["https://api-t.noria.nodestake.top"],
+    "rpc": ["https://rpc-t.noria.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.12",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "noria",
+    "logo": "/logos/noria.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [
+      {
+        "base": "unoria",
+        "symbol": "NORIA",
+        "exponent": "6",
+        "logo": "/logos/noria.png"
+      }
+    ]
+  }
