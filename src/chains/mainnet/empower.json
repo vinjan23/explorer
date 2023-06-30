@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "empower",
+    "chain_name": "empower-mainnet",
     "api": ["https://api-empower.vinjan.xyz/"],
     "rpc": ["https://rpc-empower.vinjan.xyz/"],
     "coingecko": "",
