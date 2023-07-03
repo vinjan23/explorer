@@ -1,18 +1,18 @@
 {
 
-    "chain_name": "archway-testnet",
+    "chain_name": "archway-mainnet",
     "api": ["https://api-archway.vinjan.xyz/"],
     "rpc": ["https://rpc-archway.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.45.14",
+    "sdk_version": "0.45.16",
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "archway",
     "logo": "/logos/archway.png",
     "assets": [{
-        "base": "uconst",
-        "symbol": "CONST",
+        "base": "aarch",
+        "symbol": "ARCH",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/archway.png"
