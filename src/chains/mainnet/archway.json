@@ -13,7 +13,7 @@
     "assets": [{
         "base": "aarch",
         "symbol": "ARCH",
-        "exponent": "6",
+        "exponent": "12",
         "coingecko_id": "",
         "logo": "/logos/archway.png"
     }]
