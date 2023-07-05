@@ -6,7 +6,7 @@
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.45.16",
-    "coin_type": "60",
+    "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "althea",
     "logo": "/logos/althea.png",
