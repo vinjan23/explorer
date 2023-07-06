@@ -1,18 +1,18 @@
 {
 
     "chain_name": "cascadia-testnet",
-    "api": ["https://api-t.cascadia.nodestake.top "],
+    "api": ["https://cascadia.api.t.stavr.tech"],
     "rpc": ["https://rpc-t.cascadia.nodestake.top"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.46.0",
+    "sdk_version": "0.46.10",
     "coin_type": "60",
     "min_tx_fee": "500",
     "addr_prefix": "cascadia",
     "logo": "/logos/cascadia.png",
     "assets": [{
         "base": "aCC",
-        "symbol": "CC",
+        "symbol": "TCC",
         "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/cascadia.png"
