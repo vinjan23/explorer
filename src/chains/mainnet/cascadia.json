@@ -1,7 +1,7 @@
 {
 
     "chain_name": "cascadia-testnet",
-    "api": ["https://api-cascadia.vinjan.xyz/"],
+    "api": ["https://api-t.cascadia.nodestake.top "],
     "rpc": ["https://rpc-cascadia.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
