@@ -4,7 +4,7 @@
     "rpc": ["https://rpc-realio.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.11",
-    "coin_type": "118",
+    "coin_type": "60",
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "realio",
     "logo": "/logos/realio.png",
