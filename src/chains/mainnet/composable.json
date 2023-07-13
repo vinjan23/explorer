@@ -2,7 +2,7 @@
 
     "chain_name": "composable-mainnet",
     "api": ["https://api-composable.vinjan.xyz/"],
-    "rpc": ["https://api-composable.vinjan.xyz/"],
+    "rpc": ["https://rpc-composable.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.47.3",
