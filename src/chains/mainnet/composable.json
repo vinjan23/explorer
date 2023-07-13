@@ -1,11 +1,11 @@
 {
 
     "chain_name": "composable-mainnet",
-    "api": ["https://composable-api.polkachu.com/"],
-    "rpc": ["https://composable-rpc.polkachu.com/"],
+    "api": ["https://api-composable.vinjan.xyz/"],
+    "rpc": ["https://api-composable.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.47.1",
+    "sdk_version": "0.47.3",
     "coin_type": "118",
     "min_tx_fee": "100",
     "addr_prefix": "centauri",
