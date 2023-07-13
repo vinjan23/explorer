@@ -1,7 +1,7 @@
 {
 
     "chain_name": "composable-mainnet",
-    "api": ["https://api-composable.vinjan.xyz/"],
+    "api": ["https://rest.cosmos.directory/composable"],
     "rpc": ["https://rpc-composable.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
