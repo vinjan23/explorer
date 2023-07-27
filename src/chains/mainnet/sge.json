@@ -4,7 +4,7 @@
     "api": ["https://api-sge.vinjan.xyz/"],
     "rpc": ["https://rpc-sge.vinjan.xyz/"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.11",
+    "sdk_version": "0.45.16",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "sge",
