@@ -11,7 +11,7 @@
     "logo": "/logos/self.png",
     "assets": [{
         "base": "uself",
-        "symbol": "SELFCHAIN",
+        "symbol": "SELF",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/self.png"
