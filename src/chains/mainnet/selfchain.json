@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "self",
-    "logo": "/logos/self.png",
+    "logo": "/logos/selfchain.png",
     "assets": [{
         "base": "uself",
         "symbol": "SELF",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/self.png"
+        "logo": "/logos/selfchain.png"
     }]
 }
