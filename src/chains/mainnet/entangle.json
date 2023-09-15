@@ -13,7 +13,7 @@
     "assets": [{
         "base": "aNGL",
         "symbol": "NGL",
-        "exponent": "12",
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/entangle.png"
     }]
