@@ -1,6 +1,6 @@
 {
-    "chain_name": "bonusblock",
-    "api": ["https://api-bonus.vinjan.xyz/"],
+    "chain_name": "bonusblock-testnet",
+    "api": ["https://api-t.bonusblock.nodestake.top"],
     "rpc": ["https://rpc-bonus.vinjan.xyz/"],
     "sdk_version": "0.45.11",
     "coin_type": "60",
