@@ -1,5 +1,5 @@
 {
-    "chain_name": "8ball",
+    "chain_name": "8ball-mainnet",
     "coingecko": "",
     "api": ["https://api-8ball.vinjan.xyz/"],
     "rpc": ["https://rpc-8ball.vinjan.xyz/"],
