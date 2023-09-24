@@ -14,7 +14,7 @@
       </div>
     </b-link>
 
-    <h2 class="mb-3">
+    <h2 class="mb-2">
       Cosmos Ecosystem Blockchains 🚀
     </h2>
 
