@@ -8,14 +8,14 @@
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
         <img src="logo.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
-          
-          Vinjan Explorer<small class="flow-left">Beta</small>
+
+          Vinjan EXPLORER<small class="flow-left"></small>
         </h1>
       </div>
     </b-link>
 
     <h2 class="mb-2">
-      Cosmos Ecosystem Blockchains 🚀
+      Explorer For Cosmos Ecosystem Blockchain🚀
     </h2>
 
     <div>
@@ -174,7 +174,7 @@ export default {
       if (chain.api) {
         const index = localStorage.getItem(`${chain.chain_name}-api-index`) || 0
         const host = Array.isArray(chain.api) ? chain.api[index] : chain.api
-        fetch(`${host}/blocks/latest`).then(res => res.json()).then(b => {
+        fetch(`${host}/cosmos/base/tendermint/v1beta1/blocks/latest`).then(res => res.json()).then(b => {
           const { header } = b.block
           this.$set(chain, 'height', header.height)
           this.$set(chain, 'time', toDay(header.time))
