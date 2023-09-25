@@ -1,5 +1,5 @@
 {
-    "chain_name": "BLOCKX",
+    "chain_name": "Blockx-testnet",
     "api": ["https://api-blockx.vinjan.xyz/"],
     "rpc": ["https://testnet8-rpc.blockxnet.com"],
     "snapshot_provider": "",
