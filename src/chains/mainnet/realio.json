@@ -4,14 +4,14 @@
     "rpc": ["https://rpc-realio.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.11",
-    "coin_type": "0",
+    "coin_type": "60",
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "realio",
     "logo": "/logos/realio.png",
     "assets": [{
         "base": "ario",
         "symbol": "RIO",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "realio-network",
         "logo": "/logos/realio.png"
     }]
