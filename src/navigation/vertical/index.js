@@ -19,31 +19,31 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://https://vinjanxplorer.jepe.biz.id/logox.svg',
+      icon: 'https://explorer.vinjan.xyz/logox.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
       title: 'Vinjan Explorer',
-      href: 'https://https://vinjanxplorer.jepe.biz.id',
+      href: 'https://explorer.vinjan.xyz/',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
       title: 'Vinjan Explorer',
-      href: 'https://https://vinjanxplorer.jepe.biz.id',
+      href: 'https://explorer.vinjan.xyz/',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/vjanwil',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'FAQ',
-    href: 'https://github.com/ping-pub/explorer/discussions',
+    href: 'https://github.com/vinjan23',
     icon: 'MessageSquareIcon',
   })
   chainMenus.push({
