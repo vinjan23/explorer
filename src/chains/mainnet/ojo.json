@@ -1,5 +1,5 @@
 {
-    "chain_name": "ojo",
+    "chain_name": "ojo-testnet",
     "coingecko": "",
     "api": ["https://api-ojo.vinjan.xyz/"],
     "rpc": ["https://rpc-ojo.vinjan.xyz/"],
