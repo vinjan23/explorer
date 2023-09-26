@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "100",
     "addr_prefix": "mantra",
-    "logo": "/logos/mantra.png",
+    "logo": "/logos/mantrachain.png",
     "assets": [{
         "base": "uaum",
         "symbol": "AUM",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/mantra.png"
+        "logo": "/logos/mantrachain.png"
     }]
 }
