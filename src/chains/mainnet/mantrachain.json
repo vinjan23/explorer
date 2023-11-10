@@ -1,7 +1,7 @@
 {
     "chain_name": "mantrachain-testnet",
     "coingecko": "",
-    "api": ["https://mantra-testnet-api.itrocket.net:443"],
+    "api": ["https://api-mantra.vinjan.xyz/"],
     "rpc": ["https://rpc-mantra.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.47.4",
