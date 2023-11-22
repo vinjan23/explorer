@@ -1,7 +1,7 @@
 {
 
     "chain_name": "archway-mainnet",
-    "api": ["https://api.archway.nodestake.top/"],
+    "api": ["https://api-archway.vinjan.xyz/"],
     "rpc": ["https://rpc-archway.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
