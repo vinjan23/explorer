@@ -1,7 +1,7 @@
 {
 
     "chain_name": "cascadia-testnet",
-    "api": ["https://cascadia.api.t.stavr.tech"],
+    "api": ["https://cascadia-testnet-rest.stakerhouse.com"],
     "rpc": ["https://rpc-t.cascadia.nodestake.top"],
     "coingecko": "",
     "snapshot_provider": "",
