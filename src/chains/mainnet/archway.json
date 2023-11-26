@@ -14,7 +14,7 @@
         "base": "aarch",
         "symbol": "ARCH",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "archway",
         "logo": "/logos/archway.png"
     }]
   }
