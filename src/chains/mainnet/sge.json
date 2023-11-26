@@ -13,7 +13,7 @@
         "base": "usge",
         "symbol": "SGE",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "six-sigma",
         "logo": "/logos/sge.png"
     }]
 }
