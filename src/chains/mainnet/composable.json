@@ -3,7 +3,6 @@
     "chain_name": "composable-mainnet",
     "api": ["https://rest.cosmos.directory/composable"],
     "rpc": ["https://rpc-composable.vinjan.xyz/"],
-    "coingecko": "picasso",
     "snapshot_provider": "",
     "sdk_version": "0.47.3",
     "coin_type": "118",
