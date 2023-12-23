@@ -1,6 +1,6 @@
 {
     "chain_name": "Blockx-testnet",
-    "api": ["https://api-blockx.vinjan.xyz/"],
+    "api": ["https://api-t.blockx.nodestake.top"],
     "rpc": ["https://testnet8-rpc.blockxnet.com"],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
