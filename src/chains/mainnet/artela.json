@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "artela-testnet",
+    "api": ["https://api-artela.vinjan.xyz/"],
+    "rpc": ["https://rpc-artela.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "art",
+    "logo": "/logos/artela.png",
+    "assets": [{
+        "base": "uart",
+        "symbol": "ARTELA",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/artela.png"
+    }]
+  }
+  
