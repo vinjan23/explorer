@@ -1,6 +1,6 @@
 {
     "chain_name": "sge-testnet",
-    "api": ["https://api-t.sge.nodestake.top"],
+    "api": ["https://sge.api.t.stavr.tech"],
     "rpc": ["https://rpc.t-sge.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.14",
