@@ -1,6 +1,6 @@
 {
     "chain_name": "side-testnet",
-    "api": ["https://side.api.t.stavr.tech"],
+    "api": ["https://api-side.vinjan.xyz/"],
     "rpc": ["https://rpc-side.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": " v0.47.3",
