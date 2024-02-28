@@ -1,7 +1,7 @@
 {
     "chain_name": "selfchain-testnet",
     "coingecko": "",
-    "api": ["https://api-selfchain.vinjan.xyz/"],
+    "api": ["https://api-t.selfchain.nodestake.org"],
     "rpc": ["https://rpc-selfchain.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
