@@ -1,6 +1,6 @@
 {
     "chain_name": "side-testnet",
-    "api": ["https://side-testnet-api.itrocket.net"],
+    "api": ["https://testnet-rest.side.one"],
     "rpc": ["https://rpc-side.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": " v0.47.3",
