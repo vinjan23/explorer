@@ -1,7 +1,7 @@
 {
 
     "chain_name": "entangle-testnet",
-    "api": ["https://api-t.entangle.nodestake.top/"],
+    "api": ["https://entangle.api.t.stavr.tech"],
     "rpc": ["https://rpc-entangle.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
