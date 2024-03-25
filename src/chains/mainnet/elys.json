@@ -1,7 +1,7 @@
 {
 
     "chain_name": "elystestnet-1",
-    "api": ["https://elys.api.t.stavr.tech"],
+    "api": ["https://api-elys.vinjan.xyz/"],
     "rpc": ["https://rpc-elys.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
