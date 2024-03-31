@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "archway-mainnet",
+    "chain_name": "stargaze-testnet",
     "api": ["https://api-star.vinjan.xyz/"],
     "rpc": ["https://rpc-star.vinjan.xyz/"],
     "coingecko": "",
