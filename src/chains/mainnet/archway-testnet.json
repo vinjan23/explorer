@@ -11,10 +11,10 @@
     "addr_prefix": "archway",
     "logo": "/logos/archway.png",
     "assets": [{
-        "base": "aarch",
-        "symbol": "ARCH",
+        "base": "aconst",
+        "symbol": "CONST",
         "exponent": "18",
-        "coingecko_id": "archway",
+        "coingecko_id": "",
         "logo": "/logos/archway.png"
     }]
   }
