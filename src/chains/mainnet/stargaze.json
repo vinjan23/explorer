@@ -13,7 +13,7 @@
     "assets": [{
         "base": "ustars",
         "symbol": "STARS",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/star.png"
     }]
