@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "archway-mainnet",
+    "api": ["https://api-migaloo.vinjan.xyz/"],
+    "rpc": ["https://rpc-migaloo.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.10",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "migaloo",
+    "logo": "/logos/migaloo.png",
+    "assets": [{
+        "base": "uwhale",
+        "symbol": "WHALE",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/migaloo.png"
+    }]
+  }
+  
