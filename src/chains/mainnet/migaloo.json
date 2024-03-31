@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "archway-mainnet",
+    "chain_name": "migaloo-testnet",
     "api": ["https://api-migaloo.vinjan.xyz/"],
     "rpc": ["https://rpc-migaloo.vinjan.xyz/"],
     "coingecko": "",
