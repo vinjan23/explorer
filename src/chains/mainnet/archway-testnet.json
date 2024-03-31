@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "archway-mainnet",
+    "chain_name": "archway-testnet",
     "api": ["https://api-archway.vinjan.xyz/"],
     "rpc": ["https://rpc-archway.vinjan.xyz/"],
     "coingecko": "",
