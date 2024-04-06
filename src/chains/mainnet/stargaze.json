@@ -9,13 +9,13 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "stars",
-    "logo": "/logos/star.png",
+    "logo": "/logos/stargaze.png",
     "assets": [{
         "base": "ustars",
         "symbol": "STARS",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/star.png"
+        "logo": "/logos/stargaze.png"
     }]
   }
   
