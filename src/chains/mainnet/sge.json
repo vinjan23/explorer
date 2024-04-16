@@ -6,7 +6,7 @@
     "snapshot_provider": "",
     "sdk_version": "0.46.16",
     "coin_type": "118",
-    "min_tx_fee": "5000",
+    "min_tx_fee": "1000",
     "addr_prefix": "sge",
     "logo": "/logos/sge.png",
     "assets": [{
