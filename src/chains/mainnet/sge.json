@@ -1,7 +1,7 @@
 {
     "chain_name": "sge-mainnet",
     "coingecko": "",
-    "api": ["https://api-sge.vinjan.xyz/"],
+    "api": ["https://sge-api.polkachu.com"],
     "rpc": ["https://rpc-sge.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.16",
