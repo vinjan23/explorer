@@ -4,7 +4,7 @@
     "api": ["https://api-warden.vinjan.xyz/"],
     "rpc": ["https://rpc-warden.vinjan.xyz/"],
     "snapshot_provider": "",
-    "sdk_version": "0.50.3",
+    "sdk_version": "0.50.5",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "warden",
