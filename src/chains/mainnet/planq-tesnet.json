@@ -10,8 +10,8 @@
     "logo": "/logos/planq.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
-        "base": "aplanq",
-        "symbol": "planq",
+        "base": "atplanq",
+        "symbol": "tplanq",
         "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/planq.png"
