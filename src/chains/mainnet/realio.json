@@ -1,6 +1,6 @@
 {
     "chain_name": "realio-mainnet",
-    "api": ["https://realio.api.m.stavr.tech"],
+    "api": ["https://api-realio.vinjan.xyz/"],
     "rpc": ["https://rpc-realio.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.12",
