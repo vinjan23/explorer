@@ -1,0 +1,19 @@
+{
+    "chain_name": "galactica-testnet",
+    "coingecko": "",
+    "api": ["https://api-galactica.vinjan.xyz/"],
+    "rpc": ["https://rpc-galactica.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "addr_prefix": "gala",
+    "logo": "/logos/galactica.png",
+    "assets": [{
+        "base": "agnet",
+        "symbol": "GNET",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/galactica.png"
+    }]
+}
