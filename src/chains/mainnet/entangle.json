@@ -1,14 +1,14 @@
 {
 
-    "chain_name": "entangle-testnet",
-    "api": ["https://entangle-testnet-api.itrocket.net"],
+    "chain_name": "entangle-mainnet",
+    "api": ["https://api-entangle.vinjan.xyz/"],
     "rpc": ["https://rpc-entangle.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.46.12",
+    "sdk_version": "0.47.10",
     "coin_type": "118",
     "min_tx_fee": "500",
-    "addr_prefix": "ethm",
+    "addr_prefix": "ent",
     "logo": "/logos/entangle.png",
     "assets": [{
         "base": "aNGL",
