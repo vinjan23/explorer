@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "alignedlayer-testnet",
+    "api": ["https://api-aligned.vinjan.xyz/"],
+    "rpc": ["https://rpc-aligned.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.50.3",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "aligned",
+    "logo": "/logos/aligned.png",
+    "assets": [{
+        "base": "stake",
+        "symbol": "STAKE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/aligned.png"
+    }]
+  }
+  
