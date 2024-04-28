@@ -1,7 +1,7 @@
 {
     "chain_name": "warden-testnet",
     "coingecko": "",
-    "api": ["https://api-warden.vinjan.xyz/"],
+    "api": ["https://warden.api.t.stavr.tech"],
     "rpc": ["https://rpc-warden.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.50.5",
