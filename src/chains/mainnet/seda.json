@@ -1,7 +1,7 @@
 {
     "chain_name": "seda-mainnet",
     "coingecko": "",
-    "api": ["https://seda.api.kjnodes.com"],
+    "api": ["https://api-seda.vinjan.xyz"],
     "rpc": ["https://rpc-seda.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "v0.50.5",
