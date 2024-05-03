@@ -1,12 +1,12 @@
 {
     "chain_name": "side-testnet",
-    "api": ["https://testnet-rest.side.one"],
+    "api": ["https://api-side.vinjan.xyz/"],
     "rpc": ["https://rpc-side.vinjan.xyz/"],
     "snapshot_provider": "",
-    "sdk_version": " v0.47.3",
+    "sdk_version": " v0.47.9",
     "coin_type": "118",
     "min_tx_fee": "5000",
-    "addr_prefix": "sge",
+    "addr_prefix": "bc",
     "logo": "/logos/side.png",
     "assets": [{
         "base": "uside",
