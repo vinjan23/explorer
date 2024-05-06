@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "dhealth-mainnet",
+    "api": ["https://api-dhealth.vinjan.xyz/"],
+    "rpc": ["https://rpc-dhealth.vinjan.xyz/"],
+    "coingecko": "dhealth",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "10111",
+    "min_tx_fee": "500",
+    "addr_prefix": "dh",
+    "logo": "/logos/dhealth.png",
+    "assets": [{
+        "base": "udhp",
+        "symbol": "DHP",
+        "exponent": "6",
+        "coingecko_id": "dhealth",
+        "logo": "/logos/dhealth.png"
+    }]
+  }
+  
