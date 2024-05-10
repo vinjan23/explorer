@@ -5,7 +5,7 @@
     "rpc": ["https://rpc-structs.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "v0.50.3",
-    "coin_type": "60",
+    "coin_type": "118",
     "min_tx_fee": "1000",
     "addr_prefix": "structs",
     "logo": "/logos/structs.png",
