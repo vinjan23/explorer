@@ -12,7 +12,7 @@
     "assets": [{
         "base": "alpha",
         "symbol": "ALPHA",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/structs.png"
     }]
