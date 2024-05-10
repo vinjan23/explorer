@@ -1,0 +1,19 @@
+{
+    "chain_name": "airchain-testnet",
+    "coingecko": "",
+    "api": ["https://api-airchain.vinjan.xyz/"],
+    "rpc": ["https://rpc-airchain.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.3",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "air",
+    "logo": "/logos/airchain.png",
+    "assets": [{
+        "base": "amf",
+        "symbol": "AMF",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/airchain.png"
+    }]
+}
