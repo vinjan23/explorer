@@ -1,7 +1,7 @@
 {
 
     "chain_name": "entangle-mainnet",
-    "api": ["https://entangle.api.m.stavr.tech"],
+    "api": ["https://api-entangle.vinjan.xyz/"],
     "rpc": ["https://rpc-entangle.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
