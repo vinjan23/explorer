@@ -1,7 +1,7 @@
 {
 
     "chain_name": "dhealth-mainnet",
-    "api": ["https://api-dhealth.vinjan.xyz/"],
+    "api": ["https://lcd.dhealth.com/"],
     "rpc": ["https://rpc-dhealth.vinjan.xyz/"],
     "coingecko": "dhealth",
     "snapshot_provider": "",
