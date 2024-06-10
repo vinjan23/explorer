@@ -12,7 +12,7 @@
     "assets": [{
         "base": "uallo",
         "symbol": "ALLO",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/allora.png"
     }]
