@@ -1,0 +1,19 @@
+{
+    "chain_name": "allora-testnet",
+    "coingecko": "",
+    "api": ["https://api-allora.vinjan.xyz/"],
+    "rpc": ["https://rpc-allora.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.3",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "allo",
+    "logo": "/logos/allora.png",
+    "assets": [{
+        "base": "uallo",
+        "symbol": "ALLO",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/allora.png"
+    }]
+}
