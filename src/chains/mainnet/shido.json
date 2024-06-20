@@ -13,7 +13,7 @@
         "base": "shido",
         "symbol": "SHIDO",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "shido-2",
         "logo": "/logos/shido.png"
     }]
 }
