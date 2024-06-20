@@ -1,0 +1,19 @@
+{
+    "chain_name": "shido-mainnet",
+    "coingecko": "",
+    "api": ["https://api-shido.vinjan.xyz/"],
+    "rpc": ["https://rpc-shido.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "shido",
+    "logo": "/logos/shido.png",
+    "assets": [{
+        "base": "shido",
+        "symbol": "SHIDO",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/shido.png"
+    }]
+}
