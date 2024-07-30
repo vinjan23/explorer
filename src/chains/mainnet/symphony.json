@@ -12,7 +12,7 @@
     "logo": "/logos/symphony.png",
     "assets": [{
         "base": "note",
-        "symbol": "  NOTE",
+        "symbol": "MLD",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/symphony.png"
