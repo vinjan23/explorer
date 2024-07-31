@@ -1,6 +1,6 @@
 {
     "chain_name": "soarchain-testnet",
-    "api": ["https://soarchain-testnet.api.kjnodes.com"],
+    "api": ["https://rpc1.testnet.soarchain.com/api"],
     "rpc": ["https://rpc-soarchain.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": " v0.45.5",
