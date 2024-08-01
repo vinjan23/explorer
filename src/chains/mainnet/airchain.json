@@ -1,7 +1,7 @@
 {
     "chain_name": "airchain-testnet",
     "coingecko": "",
-    "api": ["https://airchains.api.t.stavr.tech"],
+    "api": ["https://api-airchain.vinjan.xyz/"],
     "rpc": ["https://rpc-airchain.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "v0.50.3",
