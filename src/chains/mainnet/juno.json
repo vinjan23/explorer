@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "juno-testnet",
+    "chain_name": "juno",
     "api": ["https://juno-testnet-api.polkachu.com"],
     "rpc": ["https://juno-testnet-rpc.polkachu.com/"],
     "coingecko": "",
