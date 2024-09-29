@@ -1,8 +1,8 @@
 {
     "chain_name": "structs-testnet",
     "coingecko": "",
-    "api": ["https://api-structs.vinjan.xyz/"],
-    "rpc": ["https://rpc-structs.vinjan.xyz/"],
+    "api": ["https://structs-test.api.moonbridge.team"],
+    "rpc": ["https://structs-test.rpc.moonbridge.team"],
     "snapshot_provider": "",
     "sdk_version": "v0.50.3",
     "coin_type": "118",
