@@ -1,0 +1,19 @@
+{
+    "chain_name": "prysm-testnet",
+    "coingecko": "",
+    "api": ["https://prysm-api-devnet.kleomedes.network"],
+    "rpc": ["https://prysm-rpc-devnet.kleomedes.network"],
+    "snapshot_provider": "",
+    "sdk_version": "0.50.8",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "prysm",
+    "logo": "/logos/prysm.png",
+    "assets": [{
+        "base": "uprysm",
+        "symbol": "PRYSM",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/prysm.png"
+    }]
+}
