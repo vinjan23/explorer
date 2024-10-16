@@ -1,8 +1,8 @@
 {
     "chain_name": "prysm-testnet",
     "coingecko": "",
-    "api": ["https://prysm-api-devnet.kleomedes.network"],
-    "rpc": ["https://prysm-rpc-devnet.kleomedes.network"],
+    "api": ["https://api-prysm.vinjan.xyz"],
+    "rpc": ["https://rpc-prysm.vinjan.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.50.8",
     "coin_type": "118",
