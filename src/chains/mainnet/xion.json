@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "xion-testnet",
+    "api": ["https://xion-testnet-api.polkachu.com/static/"],
+    "rpc": ["https://xion-testnet-rpc.polkachu.com/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.50.10",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "xion",
+    "logo": "/logos/xion.png",
+    "assets": [{
+        "base": "uxion",
+        "symbol": "XION",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/xion.png"
+    }]
+  }
+  
