@@ -1,8 +1,8 @@
 {
 
     "chain_name": "xion-testnet",
-    "api": ["https://xion-testnet-api.polkachu.com/static/"],
-    "rpc": ["https://xion-testnet-rpc.polkachu.com/"],
+    "api": ["https://testnet-xion-api.lavenderfive.com"],
+    "rpc": ["https://testnet-xion-rpc.lavenderfive.com"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.50.10",
