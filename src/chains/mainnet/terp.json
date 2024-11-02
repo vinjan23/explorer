@@ -1,6 +1,6 @@
 {
     "chain_name": "terp-mainnet",
-    "api": ["https://api-terp.vinjan.xyz/"],
+    "api": ["https://terp-mainnet-api.itrocket.net"],
     "rpc": ["https://rpc-terp.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
