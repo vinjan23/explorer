@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "symphony-testnet-4",
+    "api": ["https://api-symphonyd.vinjan.xyz/"],
+    "rpc": ["https://rpc-symphonyd.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.50.6-v26-osmo-2,
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "symphony",
+    "logo": "/logos/symphony.png",
+    "assets": [{
+        "base": "note",
+        "symbol": "MLD",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/symphony.png"
+    }]
+  }
+  
