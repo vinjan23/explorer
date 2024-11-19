@@ -12,7 +12,7 @@
     "logo": "/logos/kopi.png",
     "assets": [{
         "base": "ukopi",
-        "symbol": "KOPI",
+        "symbol": "XKP",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/kopi.png"
