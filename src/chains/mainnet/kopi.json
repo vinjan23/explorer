@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "kopi-testnet",
+    "api": ["https://api-kopi.vinjan.xyz/"],
+    "rpc": ["https://rpc-kopi.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.50.7-0.5",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "kopi",
+    "logo": "/logos/kopi.png",
+    "assets": [{
+        "base": "ukopi",
+        "symbol": "KOPI",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/kopi.png"
+    }]
+  }
+  
