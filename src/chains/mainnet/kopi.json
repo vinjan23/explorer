@@ -1,7 +1,7 @@
 {
 
     "chain_name": "kopi-testnet",
-    "api": ["https://api-kopi.vinjan.xyz/"],
+    "api": ["https://api-kopi-t.sychonix.com"],
     "rpc": ["https://rpc-kopi.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
