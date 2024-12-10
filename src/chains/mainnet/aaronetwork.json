@@ -1,0 +1,19 @@
+{
+    "chain_name": "aaron network",
+    "coingecko": "",
+    "api": ["https://api-aaronetwork.vinjan.xyz/"],
+    "rpc": ["https://rpc-aaronetwork.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.10",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "aaron",
+    "logo": "/logos/aaron.png",
+    "assets": [{
+        "base": "uaaron",
+        "symbol": "AARON",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/aaron.png"
+    }]
+}
