@@ -1,5 +1,5 @@
 {
-    "chain_name": "aaron network",
+    "chain_name": "aaronetwork",
     "coingecko": "",
     "api": ["https://api-aaronetwork.vinjan.xyz/"],
     "rpc": ["https://rpc-aaronetwork.vinjan.xyz/"],
