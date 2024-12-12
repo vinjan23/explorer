@@ -5,7 +5,7 @@
     "rpc": ["https://rpc-elys.vinjan.xyz/"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.46.11",
+    "sdk_version": "0.50.9",
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "elys",
