@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "elystestnet-1",
+    "chain_name": "elys",
     "api": ["https://api-elys.vinjan.xyz/"],
     "rpc": ["https://rpc-elys.vinjan.xyz/"],
     "coingecko": "",
