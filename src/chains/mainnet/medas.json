@@ -1,0 +1,19 @@
+{
+    "chain_name": "medasdigital",
+    "coingecko": "",
+    "api": ["https://api-medas.vinjan.xyz/"],
+    "rpc": ["https://rpc-medas.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.10",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "medas",
+    "logo": "/logos/medas.png",
+    "assets": [{
+        "base": "umedas",
+        "symbol": "MEDAS",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/medas.png"
+    }]
+}
