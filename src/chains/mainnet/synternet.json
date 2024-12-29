@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "synternet",
+    "api": ["https://api-synternet.vinjan.xyz/"],
+    "rpc": ["https://rpc-synternet.vinjan.xyz/"],
+    "coingecko": "synt",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.11",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "synt",
+    "logo": "/logos/synternet.png",
+    "assets": [{
+        "base": "usynt",
+        "symbol": "SYNT",
+        "exponent": "6",
+        "coingecko_id": "synt",
+        "logo": "/logos/synternet.png"
+    }]
+  }
+  
