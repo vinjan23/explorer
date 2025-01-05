@@ -3,7 +3,7 @@
     "chain_name": "synternet",
     "api": ["https://api-synternet.vinjan.xyz/"],
     "rpc": ["https://rpc-synternet.vinjan.xyz/"],
-    "coingecko": "synt",
+    "coingecko": "synternet-synt",
     "snapshot_provider": "",
     "sdk_version": "0.47.11",
     "coin_type": "118",
@@ -14,7 +14,7 @@
         "base": "usynt",
         "symbol": "SYNT",
         "exponent": "6",
-        "coingecko_id": "synt",
+        "coingecko_id": "synternet-synt",
         "logo": "/logos/synternet.png"
     }]
   }
