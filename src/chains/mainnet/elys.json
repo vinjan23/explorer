@@ -3,7 +3,7 @@
     "chain_name": "elys",
     "api": ["https://api-elys.vinjan.xyz/"],
     "rpc": ["https://rpc-elys.vinjan.xyz/"],
-    "coingecko": "",
+    "coingecko": "elys-network",
     "snapshot_provider": "",
     "sdk_version": "0.50.9",
     "coin_type": "118",
@@ -14,7 +14,7 @@
         "base": "uelys",
         "symbol": "ELYS",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "elys-network",
         "logo": "/logos/elys.png"
     }]
   }
