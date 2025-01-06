@@ -11,7 +11,7 @@
     "assets": [{
         "base": "stake",
         "symbol": "STAKE",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "realio-network",
         "logo": "/logos/realio.png"
     }]
