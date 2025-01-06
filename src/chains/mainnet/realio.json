@@ -9,8 +9,8 @@
     "addr_prefix": "realio",
     "logo": "/logos/realio.png",
     "assets": [{
-        "base": "stake",
-        "symbol": "STAKE",
+        "base": "ario",
+        "symbol": "RIO",
         "exponent": "18",
         "coingecko_id": "realio-network",
         "logo": "/logos/realio.png"
