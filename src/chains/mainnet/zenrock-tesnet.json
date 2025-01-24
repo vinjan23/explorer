@@ -1,5 +1,5 @@
 {
-    "chain_name": "zenrock",
+    "chain_name": "zenrock-testnet",
     "coingecko": "",
     "api": ["https://api-test.zenrock.vinjan.xyz"],
     "rpc": ["https://rpc-test.zenrock.vinjan.xyz"],
