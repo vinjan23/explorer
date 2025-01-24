@@ -13,7 +13,7 @@
         "base": "urock",
         "symbol": "ROCK",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "zenrock",
         "logo": "/logos/zenrock.png"
     }]
 }
