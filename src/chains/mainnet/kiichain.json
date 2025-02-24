@@ -1,0 +1,19 @@
+{
+    "chain_name": "kiichain-testnet",
+    "coingecko": "",
+    "api": ["https://api-kiichain.vinjan.xyz/"],
+    "rpc": ["https://rpc-kiichain.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "kii",
+    "logo": "/logos/kiichain.png",
+    "assets": [{
+        "base": "ukii",
+        "symbol": "KII",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/kiichain.png"
+    }]
+}
