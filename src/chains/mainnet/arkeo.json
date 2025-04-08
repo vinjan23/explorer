@@ -1,18 +1,18 @@
 {
-    "chain_name": "arkeo-testnet",
+    "chain_name": "arkeo",
     "coingecko": "",
-    "api": ["https://api-arkeo.vinjan.xyz/"],
-    "rpc": ["https://rpc-arkeo.vinjan.xyz/"],
+    "api": ["https://api-arkeo.vinjan.xyz"],
+    "rpc": ["https://rpc-arkeo.vinjan.xyz"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.13",
-    "coin_type": "118",
+    "sdk_version": "0.50.11",
+    "coin_type": "494",
     "min_tx_fee": "5000",
-    "addr_prefix": "tarkeo",
+    "addr_prefix": "arkeo",
     "logo": "/logos/arkeo.png",
     "assets": [{
         "base": "uarkeo",
         "symbol": "ARKEO",
-        "exponent": "6",
+        "exponent": "8",
         "coingecko_id": "",
         "logo": "/logos/arkeo.png"
     }]
