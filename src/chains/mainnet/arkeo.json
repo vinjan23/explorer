@@ -1,12 +1,13 @@
 {
+
     "chain_name": "arkeo",
+    "api": ["https://api-arkeod.vinjan.xyz"],
+    "rpc": ["https://rpc-arkeod.vinjan.xyz"],
     "coingecko": "",
-    "api": ["https://api-arkeod.vinjan.xyz/"],
-    "rpc": ["https://rpc-arkeod.vinjan.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.50.11",
     "coin_type": "494",
-    "min_tx_fee": "5000",
+    "min_tx_fee": "1000",
     "addr_prefix": "arkeo",
     "logo": "/logos/arkeo.png",
     "assets": [{
@@ -16,4 +17,5 @@
         "coingecko_id": "",
         "logo": "/logos/arkeo.png"
     }]
-}
+  }
+  
