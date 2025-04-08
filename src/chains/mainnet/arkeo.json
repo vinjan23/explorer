@@ -1,8 +1,8 @@
 {
     "chain_name": "arkeo",
     "coingecko": "",
-    "api": ["https://api-arkeo.vinjan.xyz"],
-    "rpc": ["https://rpc-arkeo.vinjan.xyz"],
+    "api": ["https://api-arkeod.vinjan.xyz"],
+    "rpc": ["https://rpc-arkeod.vinjan.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.50.11",
     "coin_type": "494",
