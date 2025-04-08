@@ -6,7 +6,7 @@
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.50.11",
-    "coin_type": "494",
+    "coin_type": "118",
     "min_tx_fee": "1000",
     "addr_prefix": "arkeo",
     "logo": "/logos/arkeo.png",
