@@ -1,7 +1,7 @@
 {
 
     "chain_name": "arkeo",
-    "api": ["https://api-arkeo.vinjan.xyz"],
+    "api": ["https://rest-seed.arkeo.network"],
     "rpc": ["https://rpc-arkeo.vinjan.xyz"],
     "coingecko": "",
     "snapshot_provider": "",
