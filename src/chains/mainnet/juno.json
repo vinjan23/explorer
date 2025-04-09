@@ -1,11 +1,11 @@
 {
 
-    "chain_name": "juno",
+    "chain_name": "juno-testnet",
     "api": ["https://juno-testnet-api.polkachu.com"],
-    "rpc": ["https://juno-testnet-rpc.polkachu.com/"],
+    "rpc": ["https://juno-testnet-rpc.polkachu.com"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.47.12",
+    "sdk_version": "0.47.15",
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "juno",
