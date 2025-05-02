@@ -43,7 +43,7 @@ const validAddress = computed(() => {
 });
 
 const faucetUrl = computed(() => {
-    return `https://faucet.ping.pub/${chainStore.current?.chainName}`;
+    return `https://faucet-${chainStore.current?.chainName}.itrocket.net/`;
     // return `http://localhost:3000/${chainStore.current?.chainName}`;
 });
 
