@@ -1,5 +1,11 @@
 {
     "chain_name": "cosmos",
+    "faucet": {
+     "amount": "1000000uatom",
+     "ip_limit": "1",
+     "address_limit": "10",
+     "fees": "50000uatom"
+   },
     "coingecko": "",
     "api": ["https://cosmos-testnet-api.itrocket.net"],
     "rpc": ["https://cosmos-testnet-rpc.itrocket.net"],
