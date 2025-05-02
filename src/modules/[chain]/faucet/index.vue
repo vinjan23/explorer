@@ -1,8 +1,8 @@
 <script lang="ts" setup>
 import AdBanner from '@/components/ad/AdBanner.vue';
 import { get } from '@/libs';
-import { useBlockchain, useFormatter, useGovStore } from '@/stores';
-import { ref, onMounted, computed } from 'vue';
+import { useBlockchain, useFormatter } from '@/stores';
+import { computed, onMounted, ref } from 'vue';
 
 const chainStore = useBlockchain();
 const format = useFormatter();
@@ -43,7 +43,7 @@ const validAddress = computed(() => {
 });
 
 const faucetUrl = computed(() => {
-    return `https://faucet-${chainStore.current?.chainName}.itrocket.net/`;
+    return `https://faucet-${chainStore.current?.chainName}.itrocket.net`;
     // return `http://localhost:3000/${chainStore.current?.chainName}`;
 });
 
