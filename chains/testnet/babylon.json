@@ -1,5 +1,11 @@
 {
     "chain_name": "babylon",
+    "faucet": {
+     "amount": "1000000ubbn",
+     "ip_limit": "1",
+     "address_limit": "10",
+     "fees": "30000ubbn"
+   }
     "coingecko": "",
     "api": ["https://babylon-testnet-api.itrocket.net"],
     "rpc": ["https://babylon-testnet-rpc.itrocket.net"],
