@@ -1,5 +1,5 @@
 {
-    "chain_name": "axelar",
+    "chain_name": "axelar", 
     "api": [
         "https://rest.axelar.lava.build/lava-referer-97409c72-1a82-4861-8651-119c15151cbe"
     ],
