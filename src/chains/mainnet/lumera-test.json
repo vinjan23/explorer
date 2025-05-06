@@ -1,0 +1,19 @@
+{
+    "chain_name": "lumera-testnet",
+    "coingecko": "",
+    "api": ["https://api-lumera.vinjan.xyz"],
+    "rpc": ["https://rpc-lumera.vinjan.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.11",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "lumera",
+    "logo": "/logos/lumera.png",
+    "assets": [{
+        "base": "ulume",
+        "symbol": "LUME",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/lumera.png"
+    }]
+}
