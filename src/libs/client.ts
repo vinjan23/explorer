@@ -1,18 +1,17 @@
-import { fetchData, get } from '@/libs';
-import { DEFAULT } from '@/libs';
+import { DEFAULT, fetchData, get } from '@/libs';
+import { PageRequest, type Coin } from '@/types';
+import semver from 'semver';
 import {
   adapter,
-  type Request,
-  type RequestRegistry,
-  type AbstractRegistry,
   findApiProfileByChain,
   findApiProfileBySDKVersion,
   registryChainProfile,
   registryVersionProfile,
   withCustomRequest,
+  type AbstractRegistry,
+  type Request,
+  type RequestRegistry,
 } from './api/registry';
-import { PageRequest,type Coin } from '@/types';
-import semver from 'semver'
 
 export class BaseRestClient<R extends AbstractRegistry> {
   version: string;
@@ -284,13 +283,20 @@ export class CosmosRestClient extends BaseRestClient<RequestRegistry> {
   }
   // tx
   async getTxsBySender(sender: string, page?: PageRequest) {
-    if(!page) page = new PageRequest()
-
-    let query = `?events=message.sender='${sender}'&pagination.limit=${page.limit}&pagination.offset=${page.offset||0}`;
-    if (semver.gte(this.version.replaceAll('v', ''), '0.50.0')) {
-      query = `?query=message.sender='${sender}'&pagination.limit=${page.limit}&pagination.offset=${page.offset||0}`;
+    if (!page) page = new PageRequest()
+    const limit  = page.limit
+    const offset = page.offset || 0
+    const order  = "ORDER_BY_DESC"    // or "2"
+    let base    = `events=message.sender='${sender}'`
+    if (semver.gte(this.version.replaceAll('v',''), '0.50.0')) {
+      base = `query=message.sender='${sender}'`
     }
-    return this.request(this.registry.tx_txs, {}, query);
+    const qs = `?${base}`
+             + `&pagination.limit=${limit}`
+             + `&pagination.offset=${offset}`
+             + `&order_by=${order}`
+  
+    return this.request(this.registry.tx_txs, {}, qs)
   }
   // query ibc sending msgs
   // ?&pagination.reverse=true&events=send_packet.packet_src_channel='${channel}'&events=send_packet.packet_src_port='${port}'
