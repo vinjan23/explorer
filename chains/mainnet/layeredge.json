@@ -1,0 +1,19 @@
+{
+    "chain_name": "layeredge",
+    "coingecko": "",
+    "api": ["https://layeredge-mainnet-api.itrocket.net"],
+    "rpc": ["https://layeredge-mainnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.12",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/layeredge.png",
+    "assets": [{
+        "base": "aedgen",
+        "symbol": "EDGEN",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/layeredge.jpg"
+    }]
+}
