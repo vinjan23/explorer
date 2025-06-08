@@ -1,5 +1,11 @@
 {
     "chain_name": "celestia",
+    "faucet": {
+     "amount": "1000000utia",
+     "ip_limit": "1",
+     "address_limit": "10",
+     "fees": "30000utia"
+   },
     "coingecko": "",
     "api": ["https://celestia-testnet-api.itrocket.net"],
     "rpc": ["https://celestia-testnet-rpc.itrocket.net"],
