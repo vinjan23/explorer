@@ -1,0 +1,19 @@
+{
+    "chain_name": "xion",
+    "coingecko": "",
+    "api": ["https://xion-mainnet-api.itrocket.net"],
+    "rpc": ["https://xion-mainnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.53.0",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "burnt",
+    "logo": "/logos/xion.jpg",
+    "assets": [{
+        "base": "uxion",
+        "symbol": "XION",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/xion.jpg"
+    }]
+}
