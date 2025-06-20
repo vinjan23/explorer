@@ -7,7 +7,7 @@
     "sdk_version": "v0.53.0",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "burnt",
+    "addr_prefix": "xion",
     "logo": "/logos/xion.jpg",
     "assets": [{
         "base": "uxion",
