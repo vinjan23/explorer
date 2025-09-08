@@ -8,8 +8,8 @@
   "logo": "/logos/bitway.jpg",
   "assets": [
     {
-      "symbol": "bitway",
-      "base": "ubitway",
+      "symbol": "ubtw",
+      "base": "BTW",
       "exponent": 6,
       "logo": "/logos/bitway.jpg"
     }
