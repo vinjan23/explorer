@@ -8,9 +8,9 @@
   "logo": "/logos/bitway.jpg",
   "assets": [
     {
-      "symbol": "ubtw",
-      "base": "BTW",
-      "exponent": 18,
+      "symbol": "BTW",
+      "base": "ubtw",
+      "exponent": 6,
       "logo": "/logos/bitway.jpg"
     }
   ]
