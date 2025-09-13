@@ -1,0 +1,19 @@
+{
+    "chain_name": "swisstronik",
+    "coingecko": "",
+    "api": ["https://swisstronik-mainnet-api.itrocket.net"], 
+    "rpc": ["https://swisstronik-mainnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.5",
+    "coin_type": "60",
+    "min_tx_fee": "40000",
+    "addr_prefix": "swtr",
+    "logo": "/logos/swisstronic.jpg",
+    "assets": [{
+        "base": "aswtr",
+        "symbol": "SWTR",
+        "exponent": "18", 
+        "coingecko_id": "",
+        "logo": "/logos/swisstronic.jpg"
+    }]
+}
