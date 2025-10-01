@@ -4,7 +4,7 @@
   "rpc": ["https://warden-mainnet-rpc.itrocket.net"],
   "coin_type": 118,
   "min_tx_fee": 200,
-  "sdk_version": "v0.50.9-evmos-warden",
+  "sdk_version": "v0.53.4",
   "addr_prefix": "warden",
   "logo": "/logos/warden.png",
   "assets": [
