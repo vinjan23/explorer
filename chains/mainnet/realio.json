@@ -15,38 +15,15 @@
     "addr_prefix": "realio",
     "logo": "/logos/realio.png",
     "assets": [
-        {
-            "base": "ario",
-            "denom_units": [
-                {"denom": "ario", "exponent": 0},
-                {"denom": "RIO", "exponent": 18}
-            ],
-            "symbol": "RIO",
-            "exponent": 18,
-            "coingecko_id": "realio-network",
-            "logo": "/logos/realio.png"
-        },
-        {
-            "base": "arst",
-            "denom_units": [
-                {"denom": "arst", "exponent": 0},
-                {"denom": "RST", "exponent": 18}
-            ],
-            "symbol": "RST",
-            "exponent": 18,
-            "coingecko_id": "realio-network",
-            "logo": "/logos/realio.png"
-        },
-        {
-            "base": "almx",
-            "denom_units": [
-                {"denom": "almx", "exponent": 0},
-                {"denom": "LMX", "exponent": 18}
-            ],
-            "symbol": "LMX",
-            "exponent": 18,
-            "coingecko_id": "realio-network",
-            "logo": "/logos/realio.png"
-        }
+{
+    "base": "stake",
+    "display": "STAKE",
+    "denom_units": [
+        {"denom": "stake", "exponent": 0},
+        {"denom": "STAKE", "exponent": 18}
+    ],
+    "symbol": "STAKE",
+    "exponent": 18
+}
     ]
 }
