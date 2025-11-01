@@ -3,8 +3,9 @@
     "registry_name": "atomone",
     "api": [
         {"provider": "Vinjan.Inc", "address": "https://api-atomone.vinjan.xyz"},
-        {"provider": "Indonode", "address": "https://api.atomone.indonode.net"},
-         {"provider": "hazen", "address": "https://atomone-mainnet-api.hazennetworksolutions.com/"}
+        {"provider": "AllInBits", "address": "https://atomone-api.allinbits.com"},
+        {"provider": "Indonode", "address": "https://api.atomone.indonode.net"}
+        
 
     ],
     "rpc": [
