@@ -1,0 +1,29 @@
+{
+    "chain_name": "paxi",
+    "registry_name": "paxi",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-paxi.vinjan.xyz"},
+        {"provider": "Paxi", "address": "https://mainnet-lcd.paxinet.io"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-paxi.vinjan.xyz"},
+        {"provider": "Paxi", "address": "https://mainnet-rpc.paxinet.io/"}
+
+        
+    ],
+    "sdk_version": "0.53.0",
+    "coin_type": "118",
+    "min_tx_fee": "0.025",
+    "addr_prefix": "paxi",
+    "logo": "/logos/paxi.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "upaxi",
+        "symbol": "PAXI",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/paxi.png"
+    }]
+}
