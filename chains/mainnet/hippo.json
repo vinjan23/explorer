@@ -1,0 +1,28 @@
+{
+    "chain_name": "hippo-protocol",
+    "registry_name": "hippo-protocol",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-hippo.vinjan.xyz"},
+        {"provider": "Hippo-Protocol", "address": "https://api.hippo-protocol.com"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-hippo.vinjan.xyz"} 
+
+        
+    ],
+    "sdk_version": "0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "hippo",
+    "logo": "/logos/hippo.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "ahp",
+        "symbol": "HP",
+        "exponent": "18",
+        "coingecko_id": "hippo-protocol", 
+        "logo": "/logos/hippo.png"
+    }]
+}
