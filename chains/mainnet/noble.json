@@ -1,0 +1,28 @@
+{
+    "chain_name": "noble",
+    "registry_name": "noble",
+    "api": [
+        {"provider": "Polkachu", "address": "https://noble-api.polkachu.com"},
+        {"provider": "OWALLET", "address": "https://noble-rest.owallet.io"}
+
+    ],
+    "rpc": [
+        {"provider": "Polkachu", "address": "https://noble-rpc.polkachu.com"},
+        {"provider": "OWALET", "address": "https://noble-rpc.owallet.io"}
+        
+    ],
+    "sdk_version": "0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "noble",
+    "logo": "/logos/noble.png",
+    "theme_color": "#053ab8",
+    "assets": [
+      {
+        "base": "uusdc",
+        "symbol": "USDC",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/noble.png"
+    }]
+}
