@@ -1,0 +1,28 @@
+{
+    "chain_name": "kiichain-testnet",
+    "registry_name": "kiichain-testnet",
+    "api": [
+        {"provider": "KiiValidator", "address": "https://lcd.uno.sentry.testnet.v3.kiivalidator.com"},
+        {"provider": "Vinjan.Inc", "address": "https://api-kiichain.vinjan.xyz"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "KiiValidator", "address": "https://rpc.uno.sentry.testnet.v3.kiivalidator.com"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-kiichain.vinjan.xyz"}
+
+        
+    ],
+    "sdk_version": "v0.50.13-0.20250319183239-53dea340efc7",
+    "coin_type": "60",
+    "addr_prefix": "kii",
+    "logo": "/logos/kiichain.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "akii",
+        "symbol": "KII",
+        "exponent": "18",
+        "coingecko_id": "kii", 
+        "logo": "/logos/kiichain.png"
+     }]
+}
