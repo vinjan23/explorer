@@ -1,0 +1,28 @@
+{
+    "chain_name": "axone",
+    "registry_name": "axone",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-axone.vinjan.xyz"},
+        {"provider": "Node39", "address": "https://axone-api.node39.top"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-axone.vinjan.xyz"}
+
+        
+    ],
+    "sdk_version": "v0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "axone",
+    "logo": "/logos/axone.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "uaxone",
+        "symbol": "AXONE",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/axone.png"
+    }]
+}
