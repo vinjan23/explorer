@@ -1,21 +1,29 @@
 {
   "chain_name": "realio",
   "api": [
-    "https://realio-mainnet-api.itrocket.net"
-  ],
+      {"provider": "Vinjan.Inc", "address": "https://api-realio.vinjan.xyz"},
+      {"provider": "Stavr", "address": " https://realio.api.m.stavr.tech"}
+
+
+
+    ],
+  
   "rpc": [
-    "https://realio-mainnet-rpc.itrocket.net"
+      {"provider": "Vinjan.Inc", "address": "https://rpc-realio.vinjan.xyz"},
+      {"provider": "Stavr", "address": " https://realio.rpc.m.stavr.tech"}
   ],
-  "sdk_version": "0.46.11",
-  "coin_type": "505",
+  "sdk_version": "0.50.11",
+  "coin_type": "60",
   "addr_prefix": "realio",
   "min_tx_fee": "800",
   "logo": "/logos/realio.png",
+  "theme_color": "#e00b0b",
   "assets": [
     {
       "symbol": "STAKE",
       "base": "stake",
       "exponent": 18,
+      "coingecko_id": "realio-network",
       "logo": "/logos/realio.png"
     }
  ]
