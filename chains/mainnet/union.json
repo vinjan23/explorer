@@ -1,0 +1,30 @@
+{
+    "chain_name": "union",
+    "registry_name": "union",
+    "api": [
+        {"provider": "Nodestake", "address": "https://api.union.nodestake.org"},
+        {"provider": "Polkachu", "address": "https://union-api.polkachu.com"},
+        {"provider": "Union", "address": "https://rest.union.build"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Nodestake", "address": "https://rpc.union.nodestake.org"},
+        {"provider": "Polkachu", "address": "https://union-rpc.polkachu.com"}
+
+        
+    ],
+    "sdk_version": "v0.0.0-20250702205753-ca7679acbcc5",
+    "coin_type": "60",
+    "min_tx_fee": "30000000000000",
+    "addr_prefix": "union",
+    "logo": "/logos/union.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "au",
+        "symbol": "U",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/union.png"
+    }]
+}
