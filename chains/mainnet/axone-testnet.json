@@ -1,0 +1,30 @@
+{
+    "chain_name": "axone-testnet",
+    "registry_name": "axone-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-test.axone.vinjan.xyz"},
+        {"provider": "AKNodes", "address": "https://api.axone.aknodes.net"}
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-test.axone.vinjan.xyz"},
+        {"provider": "AKNodes", "address": "https://rpc.axone.aknodes.net"}
+
+        
+    ],
+    "sdk_version": "v0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "axone",
+    "logo": "/logos/axone.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "uaxone",
+        "symbol": "AXONE",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/axone.png"
+    }]
+}
