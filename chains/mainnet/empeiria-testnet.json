@@ -1,0 +1,31 @@
+{
+    "chain_name": "empeiria-testnet",
+    "registry_name": "empeiria-testnet",
+    "api": [
+
+        {"provider": "Vinjan.Inc", "address": "https://api-test.empe.vinjan.xyz"},
+        {"provider": "Polkachu", "address": "https://empe-testnet-api.polkachu.com"}
+
+
+
+    ],
+    "rpc": [
+
+        {"provider": "Vinjan.Inc", "address": "https://rpc-test.empe.vinjan.xyz"}
+
+
+    ],
+    "sdk_version": "0.47.9",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "empe",
+    "logo": "/logos/empe.jpg",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "uempe",
+        "symbol": "EMPE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/empe.jpg"
+    }]
+}
