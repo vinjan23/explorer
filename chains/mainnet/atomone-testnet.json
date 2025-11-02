@@ -1,0 +1,28 @@
+{
+    "chain_name": "atomone-testnet",
+    "registry_name": "atomone-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-test.atomone.vinjan.xyz"},
+        {"provider": "Inter Blockchain Services", "address": "https://atomone-testnet-api.ibs.team"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-test.atomone.vinjan.xyz"} 
+
+        
+    ],
+    "sdk_version": "0.47.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "atone",
+    "logo": "/logos/atone.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "uatone",
+        "symbol": "ATONE",
+        "exponent": "6",
+        "coingecko_id": "atomone", 
+        "logo": "/logos/atone.png"
+    }]
+}
