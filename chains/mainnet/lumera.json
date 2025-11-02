@@ -1,0 +1,28 @@
+{
+    "chain_name": "lumera",
+    "registry_name": "lumera",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-lumera.vinjan.xyz"},
+        {"provider": "Polkachu", "address": "https://lumera-api.polkachu.com"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-lumera.vinjan.xyz"}
+
+        
+    ],
+    "sdk_version": "v0.50.12",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "lumera",
+    "logo": "/logos/lumera.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "ulume",
+        "symbol": "LUME",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/lumera.png"
+    }]
+}
