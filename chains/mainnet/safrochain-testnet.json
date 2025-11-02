@@ -1,0 +1,28 @@
+{
+    "chain_name": "safrochain-testnet",
+    "registry_name": "safrochain-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-test.safrochain.vinjan.xyz"},
+        {"provider": "SafroSever", "address": "https://rest.testnet.safrochain.com"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-test.safrochain.vinjan.xyz"} 
+
+        
+    ],
+    "sdk_version": "v0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "addr_safro",
+    "logo": "/logos/safro.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "usaf",
+        "symbol": "SAF",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/safro.png"
+    }]
+}
