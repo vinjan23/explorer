@@ -1,0 +1,32 @@
+{
+    "chain_name": "dungeonchain",
+    "registry_name": "dungeonchain",
+    "api": [
+
+        {"provider": "Vinjan.Inc", "address": "https://api-dungeon.vinjan.xyz"},
+        {"provider": "Proxy", "address": "https://rest.cosmos.directory/dungeon"} 
+
+
+    ],
+    "rpc": [
+
+        {"provider": "Vinjan.Inc", "address": "https://rpc-dungeon.vinjan.xyz"},
+        {"provider": "Proxy", "address": "https://rpc.cosmos.directory/dungeon"}
+        
+
+
+    ],
+    "sdk_version": "v0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "0.00025",
+    "addr_prefix": "dungeon",
+    "logo": "/logos/dungeon.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "udgn",
+        "symbol": "DGN",
+        "exponent": "6",
+        "coingecko_id": "dragon-coin-2",
+        "logo": "/logos/dungeon.png"
+    }]
+}
