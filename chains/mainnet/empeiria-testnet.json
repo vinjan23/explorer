@@ -19,13 +19,13 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "empe",
-    "logo": "/logos/empe.jpg",
+    "logo": "/logos/empeiria.jpg",
     "theme_color": "#099c04",
     "assets": [{
         "base": "uempe",
         "symbol": "EMPE",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/empe.jpg"
+        "logo": "/logos/empeiria.jpg"
     }]
 }
