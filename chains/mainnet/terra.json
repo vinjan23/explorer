@@ -1,0 +1,32 @@
+{
+    "chain_name": "terra-classic",
+    "registry_name": "terra-classic",
+    "api": [
+
+        {"provider": "Vinjan.Inc", "address": "https://api-terra.vinjan.xyz"},
+        {"provider": "Hexxagon", "address": "https://lcd.terra-classic.hexxagon.io"} 
+
+
+    ],
+    "rpc": [
+
+        {"provider": "Vinjan.Inc", "address": "https://rpc-terra.vinjan.xyz"},
+        {"provider": "Hexxagon", "address": "https://rpc.terra-classic.hexxagon.io"}
+        
+
+
+    ],
+    "sdk_version": "v0.47.17",
+    "coin_type": "118",
+    "min_tx_fee": "0.00025",
+    "addr_prefix": "terra",
+    "logo": "/logos/terra.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "uluna",
+        "symbol": "LUNC",
+        "exponent": "6",
+        "coingecko_id": "terra-luna",
+        "logo": "/logos/terra.png"
+    }]
+}
