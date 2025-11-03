@@ -1,0 +1,28 @@
+{
+    "chain_name": "planq",
+    "registry_name": "planq",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-planq.vinjan.xyz"}, 
+        {"provider": "Cosmos Directory", "address": "https://rest.cosmos.directory/planq"}
+       
+
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-planq.vinjan.xyz"}, 
+        {"provider": "Cosmos Directory", "address": "https://rpc.cosmos.directory/planq"}
+       
+    ],
+    "sdk_version": "0.46.3",
+    "coin_type": "118",
+    "min_tx_fee": "000000000000000",
+    "addr_prefix": "planq",
+    "logo": "/logos/planq.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "aplanq",
+        "symbol": "PLANQ",
+        "exponent": "18",
+        "coingecko_id": "planq", 
+        "logo": "/logos/planq.png"
+    }]
+}
