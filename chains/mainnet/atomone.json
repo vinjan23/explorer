@@ -19,7 +19,7 @@
     "coin_type": "118",
     "min_tx_fee": "1000",
     "addr_prefix": "atone",
-    "logo": "/logos/atonmone.png",
+    "logo": "/logos/atomone.png",
     "theme_color": "#e00b0b",
     "assets": [{
         "base": "uatone",
