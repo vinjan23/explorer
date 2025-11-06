@@ -3,7 +3,7 @@
     "registry_name": "empeiria-testnet",
     "api": [
 
-        {"provider": "Vinjan.Inc", "address": "https://api-test.empe.vinjan.xyz"},
+        {"provider": "ITRocket", "address": "https://empeiria-testnet-api.itrocket.net"},
         {"provider": "Polkachu", "address": "https://empe-testnet-api.polkachu.com"}
 
 
@@ -11,7 +11,7 @@
     ],
     "rpc": [
 
-        {"provider": "Vinjan.Inc", "address": "https://rpc-test.empe.vinjan.xyz"}
+        {"provider": "ITRocket", "address": "https://empeiria-testnet-rpc.itrocket.net"}
 
 
     ],
