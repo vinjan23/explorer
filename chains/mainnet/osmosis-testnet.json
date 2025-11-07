@@ -1,0 +1,28 @@
+{
+    "chain_name": "osmosis-testnet",
+    "registry_name": "osmosis-testnet",
+    "api": [
+        {"provider": "OsmosisZone", "address": "https://lcd.osmotest5.osmosis.zone"},
+        {"provider": "Polkachu", "address": "https://osmosis-testnet-api.polkachu.com"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://osmosis-testnet-rpc.polkachu.com"}
+
+        
+    ],
+    "sdk_version": "v0.50.14-v30-osmo",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "osmo",
+    "logo": "/logos/osmosis.jpg",
+    "theme_color": "#053ab8",
+    "assets": [{
+        "base": "uosmo",
+        "symbol": "OSMO",
+        "exponent": "6",
+        "coingecko_id": "osmosis", 
+        "logo": "/logos/osmosis.jpg"
+    }]
+}
