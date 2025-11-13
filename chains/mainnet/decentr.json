@@ -2,7 +2,8 @@
     "chain_name": "decentr",
     "registry_name": "decentr",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-decentr.vinjan.xyz"}
+        {"provider": "Vinjan.Inc", "address": "https://api-decentr.vinjan.xyz"},
+        {"provider": "Stavr", "address": "https://decentr.api.m.stavr.tech"}
 
         
     ],
