@@ -1,19 +1,28 @@
 {
     "chain_name": "osmosis",
-    "coingecko": "osmosis",
-    "api": ["https://osmosis-mainnet-api.itrocket.net"],
-    "rpc": ["https://osmosis-mainnet-api.itrocket.net"],
+    "registry_name": "osmosis",
+    "api": [
+         {"provider": "Osmosis", "address": "https://lcd.osmosis.zone"},
+         {"provider": "Polkachu", "address": "https://osmosis-api.polkachu.com"},
+         {"provider": "High|Stake", "address": "https://osmosis-api.highstakes.ch"}
+        
+    "rpc": [
+         {"provider": "Osmosis", "address": "https://rpc.osmosis.zone"],
+         {"provider": "Polkachu", "address": "https://osmosis-rpc.polkachu.com"},
+         {"provider": "High|Stake", "address": "https://osmosis-rpc.highstakes.ch"}
+        
     "snapshot_provider": "",
     "sdk_version": "v0.50.14-v30-osmo",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "cosmos",
     "logo": "/logos/osmosis.jpg",
+    "theme_color": "#053ab8",    
     "assets": [{
         "base": "uosmo",
         "symbol": "OSMO",
         "exponent": "6",
-        "coingecko_id": "",
+        "coingecko_id": "osmosis",
         "logo": "/logos/osmosis.jpg"
     }]
 }
