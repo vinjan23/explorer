@@ -1,14 +1,25 @@
 {
     "chain_name": "cosmoshub",
-    "coingecko": "",
-    "api": ["https://cosmoshub-mainnet-api.itrocket.net"],
-    "rpc": ["https://cosmoshub-mainnet-rpc.itrocket.net"],
+    "registry_name": "cosmoshub",
+     "api": [
+         {"provider": "Polkachu", "address": "https://cosmos-api.polkachu.com"},
+         {"provider": "Nodestake", "address": "https://api.cosmos.nodestake.org"},
+         {"provider": "ITRocket", "address": "https://cosmoshub-mainnet-api.itrocket.net"}
+
+    ],    
+    "rpc": [
+         {"provider": "Polkachu", "address": "https://cosmos-rpc.polkachu.com"},
+         {"provider": "NodestakeStake", "address": "https://rpc.cosmos.nodestake.org"},
+         {"provider": "ITRocket", "address": "https://cosmoshub-mainnet-rpc.itrocket.net"}
+        
+    ],    
     "snapshot_provider": "",
     "sdk_version": "v0.50.9-lsm",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "cosmos",
     "logo": "/logos/cosmoshub.jpg",
+    "theme_color": "#053ab8",
     "assets": [{
         "base": "uatom",
         "symbol": "ATOM",
