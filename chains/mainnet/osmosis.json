@@ -5,12 +5,14 @@
          {"provider": "Osmosis", "address": "https://lcd.osmosis.zone"},
          {"provider": "Polkachu", "address": "https://osmosis-api.polkachu.com"},
          {"provider": "High|Stake", "address": "https://osmosis-api.highstakes.ch"}
-        
+
+    ],    
     "rpc": [
          {"provider": "Osmosis", "address": "https://rpc.osmosis.zone"},
          {"provider": "Polkachu", "address": "https://osmosis-rpc.polkachu.com"},
          {"provider": "High|Stake", "address": "https://osmosis-rpc.highstakes.ch"}
-        
+
+    ],    
     "snapshot_provider": "",
     "sdk_version": "v0.50.14-v30-osmo",
     "coin_type": "118",
