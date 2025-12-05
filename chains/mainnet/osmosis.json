@@ -7,7 +7,7 @@
          {"provider": "High|Stake", "address": "https://osmosis-api.highstakes.ch"}
         
     "rpc": [
-         {"provider": "Osmosis", "address": "https://rpc.osmosis.zone"],
+         {"provider": "Osmosis", "address": "https://rpc.osmosis.zone"},
          {"provider": "Polkachu", "address": "https://osmosis-rpc.polkachu.com"},
          {"provider": "High|Stake", "address": "https://osmosis-rpc.highstakes.ch"}
         
