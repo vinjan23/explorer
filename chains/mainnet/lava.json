@@ -1,0 +1,29 @@
+{
+    "chain_name": "lava",
+    "registry_name": "lava",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-lava.vinjan.xyz"},
+        {"provider": "Lava", "address": "https://lava.rest.lava.build"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-lava.vinjan.xyz"},
+        {"provider": "Lava", "address": "https://lava.tendermintrpc.lava.build"}
+
+        
+    ],
+    "sdk_version": "v0.47.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "lava@",
+    "logo": "/logos/lava.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "ulava",
+        "symbol": "LAVA",
+        "exponent": "6",
+        "coingecko_id": "lava", 
+        "logo": "/logos/lava.png"
+    }]
+}
