@@ -11,7 +11,7 @@
     "rpc": [
         {"provider": "Vinjan.Inc", "address": "https://rpc-lava.vinjan.xyz"},
         {"provider": "w3coins", "address": "https://lava-rpc.w3coins.io:443"},
-        {"provider": "Lava", "address": "https://lava.tendermintrpc.lava.build"
+        {"provider": "Lava", "address": "https://lava.tendermintrpc.lava.build"}
         
     ],
     "sdk_version": "v0.47.13",
