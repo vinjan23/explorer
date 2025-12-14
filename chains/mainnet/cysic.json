@@ -1,0 +1,27 @@
+{
+    "chain_name": "cysic",
+    "registry_name": "cysic",
+    "api": [
+        {"provider": "Nodestake", "address": "https://api.cysic.nodestake.org"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Nodestake", "address": "https://rpc.cysic.nodestake.org"} 
+
+        
+    ],
+    "sdk_version": "0.46.16",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "cysic",
+    "logo": "/logos/cysic.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "CGT",
+        "symbol": "CGT",
+        "exponent": "18",
+        "coingecko_id": "cys", 
+        "logo": "/logos/cysic.png"
+    }]
+}
