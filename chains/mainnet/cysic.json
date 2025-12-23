@@ -2,6 +2,7 @@
     "chain_name": "cysic",
     "registry_name": "cysic",
     "api": [
+        {"provider": "Cysic", "address": "https://rest.cysic.xyz"},
         {"provider": "Nodestake", "address": "https://api.cysic.nodestake.org"}
 
         
