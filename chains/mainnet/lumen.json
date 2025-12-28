@@ -1,0 +1,28 @@
+{
+    "chain_name": "lumen",
+    "registry_name": "lumen",
+    "api": [
+        {"provider": "Chaintools", "address": "https://api.lumen.chaintools.tech:443"}
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Chaintools", "address": "https://rpc.lumen.chaintools.tech:443"}
+
+        
+    ],
+    "sdk_version": "v0.53.3",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "lmn",
+    "logo": "/logos/lumen.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "ulmn",
+        "symbol": "LMN",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/lumen.png"
+    }]
+}
