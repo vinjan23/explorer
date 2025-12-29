@@ -2,12 +2,14 @@
     "chain_name": "lumen",
     "registry_name": "lumen",
     "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-lumen.vinjan.xyz"},
         {"provider": "Chaintools", "address": "https://api.lumen.chaintools.tech:443"}
         
 
         
     ],
     "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-lumen.vinjan.xyz"},
         {"provider": "Chaintools", "address": "https://rpc.lumen.chaintools.tech:443"}
 
         
