@@ -2,13 +2,13 @@
     "chain_name": "arkeo",
     "registry_name": "arkeo",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-arkeo.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-arkeo.vinjan-inc.com"},
         {"provider": "Arkeo", "address": "https://rest-seed.arkeo.network"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-arkeo.vinjan.xyz"} 
+        {"provider": "Vinjan.Inc", "address": "https://rpc-arkeo.vinjan-inc.com"} 
 
         
     ],
