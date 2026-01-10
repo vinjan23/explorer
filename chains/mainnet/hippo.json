@@ -2,13 +2,13 @@
     "chain_name": "hippo-protocol",
     "registry_name": "hippo-protocol",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-hippo.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-hippo.vinjan-inc.com"},
         {"provider": "Hippo-Protocol", "address": "https://api.hippo-protocol.com"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-hippo.vinjan.xyz"} 
+        {"provider": "Vinjan.Inc", "address": "https://rpc-hippo.vinjan-inc.com"} 
 
         
     ],
