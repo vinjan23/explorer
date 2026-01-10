@@ -1,7 +1,7 @@
 {
   "chain_name": "realio",
   "api": [
-      {"provider": "Vinjan.Inc", "address": "https://api-realio.vinjan.xyz"},
+      {"provider": "Vinjan.Inc", "address": "https://api-realio.vinjan-inc.com"},
       {"provider": "Stavr", "address": " https://realio.api.m.stavr.tech"}
 
 
@@ -9,7 +9,7 @@
     ],
   
   "rpc": [
-      {"provider": "Vinjan.Inc", "address": "https://rpc-realio.vinjan.xyz"},
+      {"provider": "Vinjan.Inc", "address": "https://rpc-realio.vinjan-inc.com"},
       {"provider": "Stavr", "address": " https://realio.rpc.m.stavr.tech"}
   ],
   "sdk_version": "0.50.11",
