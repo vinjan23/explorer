@@ -3,14 +3,14 @@
     "registry_name": "terra-classic",
     "api": [
 
-        {"provider": "Vinjan.Inc", "address": "https://api-terra.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-terra.vinjan-inc.com"},
         {"provider": "Hexxagon", "address": "https://lcd.terra-classic.hexxagon.io"} 
 
 
     ],
     "rpc": [
 
-        {"provider": "Vinjan.Inc", "address": "https://rpc-terra.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-terra.vinjan-inc.com"},
         {"provider": "Hexxagon", "address": "https://rpc.terra-classic.hexxagon.io"}
         
 
