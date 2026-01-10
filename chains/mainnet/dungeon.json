@@ -3,14 +3,14 @@
     "registry_name": "dungeonchain",
     "api": [
 
-        {"provider": "Vinjan.Inc", "address": "https://api-dungeon.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-dungeon.vinjan-inc.com"},
         {"provider": "Proxy", "address": "https://rest.cosmos.directory/dungeon"} 
 
 
     ],
     "rpc": [
 
-        {"provider": "Vinjan.Inc", "address": "https://rpc-dungeon.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-dungeon.vinjan-inc.com"},
         {"provider": "Proxy", "address": "https://rpc.cosmos.directory/dungeon"}
         
 
