@@ -2,14 +2,14 @@
     "chain_name": "atomone",
     "registry_name": "atomone",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-atone.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-atone.vinjan-inc.com"},
         {"provider": "AllInBits", "address": "https://atomone-api.allinbits.com"},
         {"provider": "ITRocket", "address": "https://atomone-mainnet-api.itrocket.net"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-atone.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-atone.vinjan-inc.com"},
         {"provider": "AllInBits", "address": "https://atomone-rpc.allinbits.com"},
         {"provider": "ITRocket", "address": "https://atomone-mainnet-rpc.itrocket.net"}
 
