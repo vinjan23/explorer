@@ -3,7 +3,7 @@
     "registry_name": "medasdigital",
     "api": [
 
-        {"provider": "Vinjan.Inc", "address": "https://api-medas.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-medas.vinjan-inc.com"},
         {"provider": "Medasdigital", "address": "https://lcd.medas-digital.io:1317"}
         
 
@@ -11,7 +11,7 @@
     ],
     "rpc": [
 
-        {"provider": "Vinjan.Inc", "address": "https://rpc-medas.vinjan.xyz"}
+        {"provider": "Vinjan.Inc", "address": "https://rpc-medas.vinjan-inc.com"}
 
 
     ],
