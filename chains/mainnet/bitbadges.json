@@ -2,7 +2,7 @@
     "chain_name": "bitbadges",
     "registry_name": "bitbadges",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-bitbadges.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-bitbadges.vinjan-inc.com"},
         {"provider": "BitBadges", "address": "https://node.bitbadges.io/api"},
         {"provider": "Nodestake", "address": "https://api.bitbadges.nodestake.org"},
         {"provider": "WhenMoonWhenLambo", "address": "https://bitbadges_mainnet_api.chain.whenmoonwhenlambo.money"}
@@ -10,7 +10,7 @@
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-bitbadges.vinjan.xyz"}
+        {"provider": "Vinjan.Inc", "address": "https://rpc-bitbadges.vinjan-inc.com"}
 
         
     ],
