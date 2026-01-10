@@ -2,13 +2,13 @@
     "chain_name": "lumera",
     "registry_name": "lumera",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-lumera.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-lumera.vinjan-inc.com"},
         {"provider": "Polkachu", "address": "https://lumera-api.polkachu.com"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-lumera.vinjan.xyz"}
+        {"provider": "Vinjan.Inc", "address": "https://rpc-lumera.vinjan-inc.com"}
 
         
     ],
