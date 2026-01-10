@@ -2,13 +2,13 @@
     "chain_name": "paxi",
     "registry_name": "paxi",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-paxi.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-paxi.vinjan-inc.com"},
         {"provider": "Paxi", "address": "https://mainnet-lcd.paxinet.io"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-paxi.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-paxi.vinjan-inc.com"},
         {"provider": "Paxi", "address": "https://mainnet-rpc.paxinet.io/"}
 
         
