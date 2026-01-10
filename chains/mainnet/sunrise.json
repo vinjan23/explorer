@@ -4,7 +4,7 @@
     "api": [
 
         {"provider": "Polkachu", "address": "https://sunrise-api.polkachu.com"},
-        {"provider": "Vinjan.Inc", "address": "https://api-sunrise.vinjan.xyz"}
+        {"provider": "Vinjan.Inc", "address": "https://api-sunrise.vinjan-inc.com"}
         
 
 
@@ -12,7 +12,7 @@
     "rpc": [
 
         {"provider": "Polkachu", "address": "https://sunrise-rpc.polkachu.com"},
-        {"provider": "Vinjan.Inc", "address": "https://rpc-sunrise.vinjan.xyz"}
+        {"provider": "Vinjan.Inc", "address": "https://rpc-sunrise.vinjan-inc.com"}
         
         
 
