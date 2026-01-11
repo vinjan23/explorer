@@ -2,14 +2,14 @@
     "chain_name": "lava",
     "registry_name": "lava",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-lava.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-lava.vinjan-inc.com"},
         {"provider": "w3coins", "address": "https://lava-api.w3coins.io:443"},
         {"provider": "Lava", "address": "https://lava.rest.lava.build"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-lava.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-lava.vinjan-inc.com"},
         {"provider": "w3coins", "address": "https://lava-rpc.w3coins.io:443"},
         {"provider": "Lava", "address": "https://lava.tendermintrpc.lava.build"}
         
