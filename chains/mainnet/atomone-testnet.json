@@ -2,13 +2,13 @@
     "chain_name": "atomone-testnet",
     "registry_name": "atomone-testnet",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-test.atomone.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-t.atomone.vinjan-inc.com"},
         {"provider": "Inter Blockchain Services", "address": "https://atomone-testnet-api.ibs.team"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-test.atomone.vinjan.xyz"} 
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.atomone.vinjan-inc.com"} 
 
         
     ],
