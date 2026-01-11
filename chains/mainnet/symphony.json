@@ -3,7 +3,7 @@
     "registry_name": "symphony",
     "api": [
 
-        {"provider": "Vinjan.Inc", "address": "https://api-main-symphony.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-m.symphony.vinjan-inc.com"},
         {"provider": "Konsortech", "address": "https://mainnet-symphony-api.konsortech.xyz"},
         {"provider": "CoreNode", "address": "https://sym-mainnet-api.corenodehq.xyz"}
 
@@ -11,7 +11,7 @@
     ],
     "rpc": [
 
-        {"provider": "Vinjan.Inc", "address": "https://rpc-main-symphony.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-m.symphony.vinjan-inc.com"},
         {"provider": "Konsortech", "address": "https://mainnet-symphony-rpc.konsortech.xyz"}
         
 
