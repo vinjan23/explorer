@@ -2,13 +2,13 @@
     "chain_name": "odiseo-testnet",
     "registry_name": "odiseo-testnet",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-test.odiseo.vinjan.xyz"},
+        {"provider": "Vinjan.Inc", "address": "https://api-t.odiseo.vinjan-inc.com"},
         {"provider": "Nodes Hub", "address": "https://odiseo.test.api.nodeshub.online"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-test.odiseo.vinjan.xyz"} 
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.odiseo.vinjan-inc.com"} 
 
         
     ],
