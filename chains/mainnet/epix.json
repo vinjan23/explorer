@@ -1,0 +1,28 @@
+{
+    "chain_name": "epix",
+    "registry_name": "epix",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-epix.vinjan-inc.com"},
+        {"provider": "Node39", "address": "https://api.epix.zone"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-epix.vinjan-inc.com"}
+
+        
+    ],
+    "sdk_version": "v0.54.0-rc.1.0.20251215170539-f6237824459b",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "epix",
+    "logo": "/logos/epix.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "aepix",
+        "symbol": "EPIX",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/epix.png"
+    }]
+}
