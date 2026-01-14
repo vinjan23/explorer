@@ -13,7 +13,7 @@
         
     ],
     "sdk_version": "v0.54.0-rc.1.0.20251215170539-f6237824459b",
-    "coin_type": "118",
+    "coin_type": "60",
     "min_tx_fee": "1000",
     "addr_prefix": "epix",
     "logo": "/logos/epix.png",
@@ -21,7 +21,7 @@
     "assets": [{
         "base": "aepix",
         "symbol": "EPIX",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "", 
         "logo": "/logos/epix.png"
     }]
