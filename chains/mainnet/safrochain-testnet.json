@@ -2,6 +2,7 @@
     "chain_name": "safrochain-testnet",
     "registry_name": "safrochain-testnet",
     "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-t.safro.vinjan-inc.com"},
         {"provider": "Nodestake", "address": "https://api-t.safrochain.nodestake.org"},
         {"provider": "SafroSever", "address": "https://rest.testnet.safrochain.com"}
 
