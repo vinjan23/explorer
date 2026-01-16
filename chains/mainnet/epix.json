@@ -3,7 +3,7 @@
     "registry_name": "epix",
     "api": [
         {"provider": "Vinjan.Inc", "address": "https://api-epix.vinjan-inc.com"},
-        {"provider": "Node39", "address": "https://api.epix.zone"}
+        {"provider": "Epix", "address": "https://api.epix.zone"}
 
         
     ],
