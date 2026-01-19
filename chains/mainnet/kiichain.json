@@ -1,0 +1,28 @@
+{
+    "chain_name": "kiichain",
+    "registry_name": "kiichain",
+    "api": [
+        {"provider": "KiiValidator", "address": "https://lcd.kiivalidator.com"},
+        {"provider": "Vinjan.Inc", "address": "https://api-kiichain.vinjan-inc.com"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "KiiValidator", "address": "https://rpc.kiivalidator.com"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-kiichain.vinjan-inc.com"}
+
+        
+    ],
+    "sdk_version": "v0.53.4",
+    "coin_type": "60",
+    "addr_prefix": "kii",
+    "logo": "/logos/kiichain.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "akii",
+        "symbol": "KII",
+        "exponent": "18",
+        "coingecko_id": "kii", 
+        "logo": "/logos/kiichain.png"
+     }]
+}
