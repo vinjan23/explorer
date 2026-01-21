@@ -2,13 +2,13 @@
     "chain_name": "epix",
     "registry_name": "epix",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-epix.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://api-m.epix.vinjan-inc.com"},
         {"provider": "Epix", "address": "https://api.epix.zone"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-epix.vinjan-inc.com"}
+        {"provider": "Vinjan.Inc", "address": "https://rpc-m.epix.vinjan-inc.com"}
 
         
     ],
