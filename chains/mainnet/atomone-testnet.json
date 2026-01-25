@@ -3,12 +3,12 @@
     "registry_name": "atomone-testnet",
     "api": [
         {"provider": "Vinjan.Inc", "address": "https://api-t.atomone.vinjan-inc.com"},
-        {"provider": "Inter Blockchain Services", "address": "https://atomone-testnet-api.ibs.team"}
+        {"provider": "ITRocket", "address": "https://atomone-testnet-api.itrocket.net"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-t.atomone.vinjan-inc.com"} 
+        {"provider": "ITRocket", "address": "https://atomone-testnet-rpc.itrocket.net"} 
 
         
     ],
