@@ -2,12 +2,12 @@
     "chain_name": "airchain-testnet",
     "registry_name": "airchain-testnet",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-airchain.vinjan-inc.com"}
+        {"provider": "ITRocket", "address": "https://airchains-testnet-api.itrocket.net"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-airchain.vinjan-inc.com"} 
+        {"provider": "ITRocket", "address": "https://airchains-testnet-rpc.itrocket.net"} 
 
         
     ],
