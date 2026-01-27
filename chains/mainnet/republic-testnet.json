@@ -1,0 +1,28 @@
+{
+    "chain_name": "republic-testnet",
+    "registry_name": "republic-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-t.republic.vinjan-inc.com"}
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.republic.vinjan-inc.com"} 
+
+        
+    ],
+    "sdk_version": "v0.53.5-0.20251030204916-768cb210885c",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "rai",
+    "logo": "/logos/republic.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "arai",
+        "symbol": "RAI",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/republic.png"
+    }]
+}
