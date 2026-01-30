@@ -2,9 +2,9 @@
 
 ![Ping Wallet](./public/logo.svg)
 
-<h1>ITRocket Explorer</h1>
+<h1>Vinjan.Inc Explorer</h1>
 
-**ITRocket Explorer is not only an explorer but also a wallet and more ... 🛠**
+**Vinjan.Inc Explorer is not only an explorer but also a wallet and more ... 🛠**
 
 [![version](https://img.shields.io/github/tag/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/releases/latest)
 [![GitHub](https://img.shields.io/github/license/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/blob/master/LICENSE)
