@@ -1,0 +1,28 @@
+{
+    "chain_name": "pushchain-testnet",
+    "registry_name": "pushchain-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-test.pchain.vinjan-inc.com"}
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-test.pchain.vinjan-inc.com"} 
+
+        
+    ],
+    "sdk_version": "v0.50.10",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "push",
+    "logo": "/logos/pchain.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "apush",
+        "symbol": "PUSH",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/pchain.png"
+    }]
+}
