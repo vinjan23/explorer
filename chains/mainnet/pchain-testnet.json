@@ -19,8 +19,8 @@
     "logo": "/logos/pchain.png",
     "theme_color": "#099c04",
     "assets": [{
-        "base": "apush",
-        "symbol": "PUSH",
+        "base": "upc",
+        "symbol": "PC",
         "exponent": "18",
         "coingecko_id": "", 
         "logo": "/logos/pchain.png"
