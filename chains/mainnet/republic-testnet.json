@@ -2,7 +2,8 @@
     "chain_name": "republic-testnet",
     "registry_name": "republic-testnet",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-t.republic.vinjan-inc.com"}
+        {"provider": "Vinjan.Inc", "address": "https://api-t.republic.vinjan-inc.com"},
+        {"provider": "Nodestake", "address": "https://api-t.republicai.nodestake.org"}
         
 
         
