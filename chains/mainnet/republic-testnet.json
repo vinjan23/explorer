@@ -3,13 +3,15 @@
     "registry_name": "republic-testnet",
     "api": [
         {"provider": "Vinjan.Inc", "address": "https://api-t.republic.vinjan-inc.com"},
-        {"provider": "Nodestake", "address": "https://api-t.republicai.nodestake.org"}
+        {"provider": "Nodestake", "address": "https://api-t.republicai.nodestake.org"},
+        {"provider": "Republic", "address": "https://rest.republicai.io"}
         
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-t.republic.vinjan-inc.com"} 
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.republic.vinjan-inc.com"},
+        {"provider": "Republic", "address": "https://rpc.republicai.io"}
 
         
     ],
