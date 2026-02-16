@@ -21,6 +21,7 @@
     "addr_prefix": "rai",
     "logo": "/logos/republic.png",
     "theme_color": "#099c04",
+    "evm": "true",
     "assets": [{
         "base": "arai",
         "symbol": "RAI",
