@@ -1,0 +1,37 @@
+{
+    "chain_name": "shentu",
+    "registry_name": "shentu",
+    "api": [
+
+        {"provider": "Nodeshub", "address": "https://shentu.api.nodeshub.online"},
+        {"provider": "Polkachu", "address": "https://shentu-api.polkachu.com"},
+        {"provider": "Shentu", "address": "https://rest.shentu.org"},
+        {"provider": "AlxVoy", "address": "https://shentu.api.m.anode.team"}
+        
+
+
+    ],
+    "rpc": [
+
+        {"provider": "Nodeshub", "address": "https://shentu.rpc.nodeshub.online"},
+        {"provider": "Polkachu", "address": "https://shentu-rpc.polkachu.com"},
+        {"provider": "AlxVoy", "address": "https://shentu.rpc.m.anode.team"}
+        
+        
+
+
+    ],
+    "sdk_version": "v0.50.14",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "shentu",
+    "logo": "/logos/shentu.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "uctk",
+        "symbol": "CTK",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/shentu.png"
+    }]
+}
