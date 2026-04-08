@@ -1,0 +1,32 @@
+{
+    "chain_name": "monolythium-testnet",
+    "registry_name": "monolythium-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-test.monolyth.vinjan-inc.com"},
+        {"provider": "Nodestake", "address": "https://api-t.mono.nodestake.org"}
+        
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-test.monolyth.vinjan-inc.com"},
+        {"provider": "Nodestake", "address": "https://rpc-t.mono.nodestake.org"}
+
+        
+    ],
+    "sdk_version": "v0.53.6",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "mono",
+    "logo": "/logos/monolyth.png",
+    "theme_color": "#099c04",
+    "evm": "true",
+    "assets": [{
+        "base": "alyth",
+        "symbol": "LYTH",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/monolyth.png"
+    }]
+}
