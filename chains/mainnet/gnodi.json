@@ -3,18 +3,20 @@
     "registry_name": "gnodi",
     "api": [
 
+        {"provider": "Gnodi", "address": "https://api.gnodi.zone"},
         {"provider": "Vinjan.Inc", "address": "https://api-gnodi.vinjan-inc.com"},
-        {"provider": "Nodestake", "address": "https://api.gnodi.nodestake.org"},
-        {"provider": "Gnodi", "address": "https://api.gnodi.zone"}
+        {"provider": "Nodestake", "address": "https://api.gnodi.nodestake.org"}
+        
         
 
 
     ],
     "rpc": [
 
+        {"provider": "Gnodi", "address": "https://rpc.gnodi.zone"},
         {"provider": "Vinjan.Inc", "address": "https://rpc-gnodi.vinjan-inc.com"},
-        {"provider": "Nodestake", "address": "https://rpc.gnodi.nodestake.org"},
-        {"provider": "Gnodi", "address": "https://rpc.gnodi.zone"}
+        {"provider": "Nodestake", "address": "https://rpc.gnodi.nodestake.org"}
+        
         
         
 
