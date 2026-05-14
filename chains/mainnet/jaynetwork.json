@@ -1,0 +1,32 @@
+{
+    "chain_name": "jaynetwork",
+    "registry_name": "jaynetwork",
+    "api": [
+
+        {"provider": "Vinjan.Inc", "address": "https://api-jaynetwork.vinjan-inc.com"}
+        
+        
+        
+    ],
+    "rpc": [
+
+        {"provider": "Vinjan.Inc", "address": "https://rpc-jaynetwork.vinjan-inc.com"}
+        
+        
+
+
+    ],
+    "sdk_version": "v0.53.6",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "yjay",
+    "logo": "/logos/jay.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "ujay",
+        "symbol": "JAY",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/jay.png"
+    }]
+}
