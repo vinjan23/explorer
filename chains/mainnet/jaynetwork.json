@@ -3,7 +3,8 @@
     "registry_name": "jaynetwork",
     "api": [
 
-        {"provider": "Vinjan.Inc", "address": "https://api-jaynetwork.vinjan-inc.com"}
+        {"provider": "Vinjan.Inc", "address": "https://api-jaynetwork.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://api-jayn.vinjan-inc.com"}
         
         
         
