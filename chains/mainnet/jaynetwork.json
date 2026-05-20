@@ -4,14 +4,15 @@
     "api": [
 
         {"provider": "Vinjan.Inc", "address": "https://api-jaynetwork.vinjan-inc.com"},
-        {"provider": "Vinjan.Inc", "address": "https://api-jayn.vinjan-inc.com"}
+        {"provider": "TheJayNetwork", "address": "https://thejaynetwork.com/rest"}
         
         
         
     ],
     "rpc": [
 
-        {"provider": "Vinjan.Inc", "address": "https://rpc-jaynetwork.vinjan-inc.com"}
+        {"provider": "Vinjan.Inc", "address": "https://rpc-jaynetwork.vinjan-inc.com"},
+        {"provider": "TheJayNetwork", "address": "https://thejaynetwork.com/rpc"}
         
         
 
