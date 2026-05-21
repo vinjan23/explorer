@@ -4,7 +4,7 @@
     "api": [
 
         {"provider": "Vinjan.Inc", "address": "https://api-jaynetwork.vinjan-inc.com"},
-        {"provider": "TheJayNetwork", "address": "https://thejaynetwork.com/rest"}
+        {"provider": "TheJayNetwork", "address": "http://152.53.195.74:1317"}
         
         
         
@@ -12,7 +12,7 @@
     "rpc": [
 
         {"provider": "Vinjan.Inc", "address": "https://rpc-jaynetwork.vinjan-inc.com"},
-        {"provider": "TheJayNetwork", "address": "https://thejaynetwork.com/rpc"}
+        {"provider": "TheJayNetwork", "address": "http://152.53.195.74:26657"}
         
         
 
