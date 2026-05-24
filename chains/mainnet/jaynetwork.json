@@ -4,7 +4,7 @@
     "api": [
 
         {"provider": "Vinjan.Inc", "address": "https://api-jaynetwork.vinjan-inc.com"},
-        {"provider": "TheJayNetwork", "address": "http://152.53.195.74:1317"}
+        {"provider": "Vinjan.Inc", "address": "https://api-jayn.vinjan-inc.com"}
         
         
         
