@@ -2,8 +2,8 @@
     "chain_name": "safrochain",
     "registry_name": "safrochain",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-safro.vinjan-inc.com"},
-        {"provider": "Nodestake", "address": "https://api-t.safrochain.nodestake.org"}
+        {"provider": "Vinjan.Inc", "address": "https://api-safrochain.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://api-safro.vinjan-inc.com"}"}
         
 
         
