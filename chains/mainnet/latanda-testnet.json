@@ -1,0 +1,29 @@
+{
+    "chain_name": "latanda-testnet",
+    "registry_name": "latanda-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-t.latanda.vinjan-inc.com"},
+        {"provider": "UTSA", "address": "https://t-latanda.api.utsa.tech"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.latanda.vinjan-inc.com"},
+        {"provider": "UTSA", "address": "https://t-latanda.rpc.utsa.tech"}
+
+        
+    ],
+    "sdk_version": "v0.53.6",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "ltd",
+    "logo": "/logos/latanda.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "ultd",
+        "symbol": "LTD",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/latanda.png"
+    }]
+}
