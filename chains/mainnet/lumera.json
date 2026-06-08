@@ -22,7 +22,7 @@
         "base": "ulume",
         "symbol": "LUME",
         "exponent": "6",
-        "coingecko_id": "lumera", 
+        "coingecko_id": "", 
         "logo": "/logos/lumera.png"
     }]
 }
