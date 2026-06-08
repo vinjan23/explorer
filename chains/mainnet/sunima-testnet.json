@@ -2,7 +2,8 @@
     "chain_name": "sunima-testnet",
     "registry_name": "sunima-testnet",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-t.sunima.vinjan-inc.com"}
+        {"provider": "Vinjan.Inc", "address": "https://api-t.sunima.vinjan-inc.com"},
+        {"provider": "Sunima", "address": "https://sunima.uk/chain-rest"}
         
 
         
