@@ -22,7 +22,7 @@
         "base": "aepix",
         "symbol": "EPIX",
         "exponent": "18",
-        "coingecko_id": "", 
+        "coingecko_id": "epix", 
         "logo": "/logos/epix.png"
     }]
 }
