@@ -3,15 +3,15 @@
     "registry_name": "jaynetwork",
     "api": [
 
-        {"provider": "Vinjan.Inc", "address": "https://api-jaynetwork.vinjan-inc.com"},
-        {"provider": "Vinjan.Inc", "address": "https://api-jayn.vinjan-inc.com"}
+        {"provider": "Vinjan.Inc", "address": "https://api-jayn.vinjan-inc.com"},
+        {"provider": "OneNov", "address": "https://api-jay.onenov.xyz"}
         
         
         
     ],
     "rpc": [
 
-        {"provider": "Vinjan.Inc", "address": "https://rpc-jaynetwork.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-jayn.vinjan-inc.com"},
         {"provider": "TheJayNetwork", "address": "http://152.53.195.74:26657"}
         
         
