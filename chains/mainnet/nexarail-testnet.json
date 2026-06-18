@@ -1,0 +1,29 @@
+{
+    "chain_name": "nexarail-testnet",
+    "registry_name": "nexarail-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-t.nexarail.vinjan-inc.com"},
+        {"provider": "UTSA", "address": "https://t-nexarail.api.utsa.tech"}
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.nexarail.vinjan-inc.com"},
+        {"provider": "UTSA", "address": "https://t-nexarail.rpc.utsa.tech"}
+
+        
+    ],
+    "sdk_version": "v0.37.16",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "nxr",
+    "logo": "/logos/nxrl.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "unxrl",
+        "symbol": "NXRL",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/nxrl.png"
+    }]
+}
