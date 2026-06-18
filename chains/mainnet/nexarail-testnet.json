@@ -13,7 +13,7 @@
 
         
     ],
-    "sdk_version": "v0.37.16",
+    "sdk_version": "v0.47.17",
     "coin_type": "118",
     "min_tx_fee": "1000",
     "addr_prefix": "nxr",
