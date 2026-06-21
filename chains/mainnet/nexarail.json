@@ -1,15 +1,16 @@
 {
-    "chain_name": "nexarail-testnet",
-    "registry_name": "nexarail-testnet",
+    "chain_name": "nexarail",
+    "registry_name": "nexarail",
     "api": [
         {"provider": "Vinjan.Inc", "address": "https://api-t.nexarail.vinjan-inc.com"},
-        {"provider": "UTSA", "address": "https://t-nexarail.api.utsa.tech"}
-
+        {"provider": "Nodesync", "address": "https://nexarail-api-mainnet.nodesync.top"}
+        
         
     ],
     "rpc": [
         {"provider": "Vinjan.Inc", "address": "https://rpc-t.nexarail.vinjan-inc.com"},
-        {"provider": "UTSA", "address": "https://t-nexarail.rpc.utsa.tech"}
+        {"provider": "Nodesync", "address": "https://nexarail-rpc-mainnet.nodesync.top"}
+        
 
         
     ],
@@ -18,7 +19,7 @@
     "min_tx_fee": "1000",
     "addr_prefix": "nxr",
     "logo": "/logos/nxrl.png",
-    "theme_color": "#099c04",
+    "theme_color": "#e00b0b",
     "assets": [{
         "base": "unxrl",
         "symbol": "NXRL",
