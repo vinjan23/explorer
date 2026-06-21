@@ -2,13 +2,13 @@
     "chain_name": "nexarail",
     "registry_name": "nexarail",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-t.nexarail.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://api-nexarail.vinjan-inc.com"},
         {"provider": "Nodesync", "address": "https://nexarail-api-mainnet.nodesync.top"}
         
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-t.nexarail.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-nexarail.vinjan-inc.com"},
         {"provider": "Nodesync", "address": "https://nexarail-rpc-mainnet.nodesync.top"}
         
 
