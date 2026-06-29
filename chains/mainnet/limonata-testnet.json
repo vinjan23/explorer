@@ -1,0 +1,32 @@
+{
+    "chain_name": "limonata-testnet",
+    "registry_name": "limonata-testnet",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-t.limonata.vinjan-inc.com"},
+        {"provider": "Limonata", "address": "https://rest.limonata.xyz"}
+        
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.limonata.vinjan-inc.com"},
+        {"provider": "Limonata", "address": "https://cosmos-rpc.limonata.xyz"}
+
+        
+    ],
+    "sdk_version": "v0.54.3",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/limonata.png",
+    "theme_color": "#099c04",
+    "evm": "true",
+    "assets": [{
+        "base": "aLIMO",
+        "symbol": "LIMO",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/limonata.png"
+    }]
+}
