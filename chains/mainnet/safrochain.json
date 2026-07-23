@@ -2,14 +2,15 @@
     "chain_name": "safrochain",
     "registry_name": "safrochain",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-safrochain.vinjan-inc.com"},
+        {"provider": "Safrochain", "address": "https://api.safrochain.network"},
         {"provider": "Vinjan.Inc", "address": "https://api-safro.vinjan-inc.com"}
         
 
         
     ],
     "rpc": [
-        {"provider": "NVinjan.Inc", "address": "https://rpc-safro.vinjan-inc.com"} 
+        {"provider": "Vinjan.Inc", "address": "https://rpc-safro.vinjan-inc.com"},
+        {"provider": "Safrochain", "address": "https://rpc.safrochain.network"}
 
         
     ],
@@ -23,7 +24,7 @@
         "base": "usaf",
         "symbol": "SAF",
         "exponent": "6",
-        "coingecko_id": "", 
+        "coingecko_id": "safrochain-saf-token", 
         "logo": "/logos/safro.png"
     }]
 }
