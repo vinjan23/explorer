@@ -24,7 +24,7 @@
         "base": "usaf",
         "symbol": "SAF",
         "exponent": "6",
-        "coingecko_id": "safrochain-saf-token", 
+        "coingecko_id": "", 
         "logo": "/logos/safro.png"
     }]
 }
