@@ -4,6 +4,7 @@
     "api": [
 
         {"provider": "Vinjan.Inc", "address": "https://api-jayn.vinjan-inc.com"},
+        {"provider": "JayNetwork", "address": "https://thejaynetwork.com/rest"},
         {"provider": "OneNov", "address": "https://api-jay.onenov.xyz"}
         
         
