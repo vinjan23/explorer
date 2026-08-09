@@ -2,20 +2,20 @@
     "chain_name": "atomone",
     "registry_name": "atomone",
     "api": [
-        {"provider": "Vinjan.Inc", "address": "https://api-atone.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://api-atomone.vinjan-inc.com"},
         {"provider": "AllInBits", "address": "https://atomone-api.allinbits.com"},
         {"provider": "ITRocket", "address": "https://atomone-mainnet-api.itrocket.net"}
 
         
     ],
     "rpc": [
-        {"provider": "Vinjan.Inc", "address": "https://rpc-atone.vinjan-inc.com"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-atomone.vinjan-inc.com"},
         {"provider": "AllInBits", "address": "https://atomone-rpc.allinbits.com"},
         {"provider": "ITRocket", "address": "https://atomone-mainnet-rpc.itrocket.net"}
 
         
     ],
-    "sdk_version": "0.47.13",
+    "sdk_version": "v0.500.2",
     "coin_type": "118",
     "min_tx_fee": "1000",
     "addr_prefix": "atone",
