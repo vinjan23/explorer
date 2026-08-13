@@ -3,13 +3,13 @@
     "registry_name": "axone",
     "api": [
         {"provider": "Vinjan.Inc", "address": "https://api-axone.vinjan-inc.com"},
-        {"provider": "NodeStake", "address": "https://api.axone.nodestake.org"}
+        {"provider": "Sychonix", "address": "https://api-axone.sychonix.com"}
 
         
     ],
     "rpc": [
         {"provider": "Vinjan.Inc", "address": "https://rpc-axone.vinjan-inc.com"},
-        {"provider": "NodeStake", "address": "https://rpc.axone.nodestake.org"}
+        {"provider": "Sychonix", "address": "https://rpc-axone.sychonix.com"}
 
         
     ],
