@@ -1,0 +1,32 @@
+{
+    "chain_name": "mucoin",
+    "registry_name": "mucoin",
+    "api": [
+        {"provider": "Vinjan.Inc", "address": "https://api-mucoin.vinjan-inc.com"},
+        {"provider": "Mucoin", "address": "https://rest.mucoin.org"}
+        
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Vinjan.Inc", "address": "https://rpc-mucoin.vinjan-inc.com"},
+        {"provider": "Mucoin", "address": "https://rpc.mucoin.org"}
+
+        
+    ],
+    "sdk_version": "v0.54.4",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "muc",
+    "logo": "/logos/mucoin.png",
+    "theme_color": "#e00b0b",
+    "evm": "true",
+    "assets": [{
+        "base": "umuc",
+        "symbol": "MUC",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/mucoin.png"
+    }]
+}
