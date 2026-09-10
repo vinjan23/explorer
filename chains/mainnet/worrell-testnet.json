@@ -1,0 +1,34 @@
+{
+    "chain_name": "worrell-testnet",
+    "registry_name": "worrell-testnet",
+    "api": [
+
+        {"provider": "ITRocket", "address": "https://worrell-testnet-api.itrocket.net"},
+        {"provider": "Vinjan.Inc", "address": "https://api-t.worrell.vinjan-inc.com"}
+        
+
+
+    ],
+    "rpc": [
+
+        {"provider": "ITRocket", "address": "https://worrell-testnet-rpc.itrocket.net"},
+        {"provider": "Vinjan.Inc", "address": "https://rpc-t.worrell.vinjan-inc.com"}
+        
+        
+
+
+    ],
+    "sdk_version": "v0.53.6",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "worrell",
+    "logo": "/logos/worrell.png",
+    "theme_color": "#099c04",
+    "assets": [{
+        "base": "uworrell",
+        "symbol": "WORRELL",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/worrell.png"
+    }]
+}
