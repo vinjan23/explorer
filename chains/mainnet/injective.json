@@ -1,0 +1,30 @@
+{
+    "chain_name": "injective",
+    "registry_name": "injective",
+    "api": [
+        {"provider": "Stakewolle", "address": "https://public.stakewolle.com/cosmos/injective/rest"},
+        {"provider": "Chaintools", "address": "https://api.lumen.chaintools.tech:443"}
+        
+
+        
+    ],
+    "rpc": [
+        {"provider": "Stakewolle", "address": "https://public.stakewolle.com/cosmos/injective/rpc"},
+        {"provider": "Hightstakes", "address": "https://injective-api.highstakes.ch"}
+
+        
+    ],
+    "sdk_version": "v0.53.3",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "inj",
+    "logo": "/logos/injective.png",
+    "theme_color": "#e00b0b",
+    "assets": [{
+        "base": "inj",
+        "symbol": "INJ",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/injective.png"
+    }]
+}
